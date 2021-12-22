@@ -1,0 +1,11 @@
+@media screen and (min-width:1171px){
+	
+}
+
+@media (max-width: 768px){
+    #body {max-width: 768px;};
+
+}
+@media (min-width: 481px) {}
+@media (max-width: 480px){}
+@media (max-width: 320px){}
