@@ -7,23 +7,22 @@
 
 	
 	<title>Ваш надежный MICE - партнер</title>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-	<script src="/jqueryui/1.12.1/jquery-ui.min.js"></script>
-	<link rel="stylesheet" href="/jqueryui/1.12.1/jquery-ui.min.css">
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
 	
 	<link rel="stylesheet" href="/css/nulstyle.css" type='text/css'> <!-- Common style -->
 	<!-- link rel="stylesheet" href="/css/style-header.css" type='text/css' --> <!-- Page style -->
 	<link rel="stylesheet" href="/css/styleContentHome.css" type="text/css"> <!-- Home page's css -->
-	<link rel="stylesheet" href="/css/catalog-style.css" type="text/css"> <!-- Catalog page's css -->
+	<link rel="stylesheet" href="/css/styleCatalog.css" type="text/css"> <!-- Catalog page's css -->
 	<link rel='stylesheet' href="/css/style-screen.css" type="text/css"> <!-- media the style screen css -->
 	<link rel='stylesheet' href='/js/slider-style.css' type = 'text/css'> <!-- The top slider css -->
 	
-	<!-- script type="text/javascript" src="/js/my-new-slider.js" --></script>
+  <script src="//#source/js/jquery-ui/Gruntfile.js"></script>
 	
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"> 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@200;500&display=swap" rel="stylesheet">
+	
 	 
 	<!--	«IE=EmulateIE8» -->
 	<!--[if lte IE 10] --><!-- link href="/site/kursy/css/ie.css" rel="stylesheet" type='text/css' / --><!-- [endif] -->
@@ -55,11 +54,19 @@
 		);
 		$('#menuTop').click(
 			function(){
+				
 				$('div#menuTop').toggleClass('OFf-menu');
 			
 			}
-		); 
-	
+		);
+		
+		<!-- $('#submenu').click( -->
+			<!-- function(){ -->
+				
+				<!-- $('li#submenu .submenu-link').toggleClass('OFf-menu'); -->
+			
+			<!-- } -->
+		<!-- ); -->
 	});
 	</script>
 	<article>
@@ -72,7 +79,7 @@
 					</div>
 					<div>
 						<div class="menu top">
-							<menu class="OFf-menu">
+							<menu class='OFf-menu'>
 							<span></span>
 							<ul>
 							<li><a href="/index.html">О нас</a></li><li><a href="/index.html">Доставка</a></li><li><a href="/index.html">Оплата</a></li><li><a href="/index.html">Новости</a></li><li><a href="/index.html">Отзывы</a></li><li><a href="/index.html">Скидки</a></li><li><a href="/index.html">Партнеры</a></li><li><a href="/index.html">Контакты</a></li>
@@ -107,7 +114,7 @@
 								<div></div>								
 
 							</div>
-							<div class="tel">+7 (800) 000-00-00</div>
+							<div  class="tel">+7 (800) 000-00-00</div>
 							<div id="time">
 								<div>Ежедневно с</div>
 								<div class="time"><time>10:00</time></div><span>-</span>
@@ -132,43 +139,43 @@
 					<ul>
 						<li id="submenu"><span>Всё для бритья</span>
 							<div class="submenu-link">
-								<div class="submenu">
+								<div class='submenu'>
 									<ul>
-										<li><figure><img src="/img/submenu/icone_after_chaving.svg" srcset="/img/submenu/icone_after_chaving.png"><figcaption><a href="/index.html">Бритвы</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_dengerous_after_chaving.svg" srcset="/img/submenu/icone_dengerous_after_chaving.png"><figcaption><a href="/index.html">Бритвы шаветт</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_dengerous_2_after_chaving.svg" srcset="/img/submenu/icone_dengerous_2_after_chaving.png"><figcaption><a href="/index.html">Опастные бритвы</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_elektro_shaver.svg" srcset="/img/submenu/icone_elektro_shaver.png"><figcaption><a href="/index.html">Электробритвы</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_for_share.svg" srcset="/img/submenu/icone_for_share.png"><figcaption><a href="/index.html">Помазки для бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_sheving_set.svg" srcset="/img/submenu/icone_sheving_set.png"><figcaption><a href="/index.html">Наборы для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_after_chaving.svg' srcset='/img/submenu/icone_after_chaving.png'><figcaption><a href='/index.html'>Бритвы</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_dengerous_after_chaving.svg' srcset='/img/submenu/icone_dengerous_after_chaving.png'><figcaption><a href='/index.html'>Бритвы шаветт</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_dengerous_2_after_chaving.svg' srcset='/img/submenu/icone_dengerous_2_after_chaving.png'><figcaption><a href='/index.html'>Опастные бритвы</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_elektro_shaver.svg' srcset='/img/submenu/icone_elektro_shaver.png'><figcaption><a href='/index.html'>Электробритвы</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_for_share.svg' srcset='/img/submenu/icone_for_share.png'><figcaption><a href='/index.html'>Помазки для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_sheving_set.svg' srcset='/img/submenu/icone_sheving_set.png'><figcaption><a href='/index.html'>Наборы для бритья</a></figcaption></figure></li>
 									</ul>
 								</div>
-								<div class="submenu">
+								<div class='submenu'>
 									<ul>
-										<li><figure><img src="/img/submenu/icone_perfume_set.svg" srcset="/img/submenu/icone_perfume_set.png"><figcaption><a href="/index.html">Наборы косметики для бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_blade_shave_png.svg" srcset="/img/submenu/icone_blade_shave_png.png"><figcaption><a href="/index.html">Дорожные наборы для бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_cups_shave_png.svg" srcset="/img/submenu/icone_cups_shave_png.png"><figcaption><a href="/index.html">Чашки для бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_support_sheving.svg" srcset="/img/submenu/icone_support_sheving.png"><figcaption><a href="/index.html">Подставки</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_replaceable_blades.svg" srcset="/img/submenu/icone_replaceable_blades.png"><figcaption><a href="/index.html">Сменные лезвия для бритв</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_covers.svg" srcset="/img/submenu/icone_covers.png"><figcaption><a href="/index.html">Чехлы и футляры</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_perfume_set.svg' srcset='/img/submenu/icone_perfume_set.png'><figcaption><a href='/index.html'>Наборы косметики для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_blade_shave_png.svg' srcset='/img/submenu/icone_blade_shave_png.png'><figcaption><a href='/index.html'>Дорожные наборы для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_cups_shave_png.svg' srcset='/img/submenu/icone_cups_shave_png.png'><figcaption><a href='/index.html'>Чашки для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_support_sheving.svg' srcset='/img/submenu/icone_support_sheving.png'><figcaption><a href='/index.html'>Подставки</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_replaceable_blades.svg' srcset='/img/submenu/icone_replaceable_blades.png'><figcaption><a href='/index.html'>Сменные лезвия для бритв</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_covers.svg' srcset='/img/submenu/icone_covers.png'><figcaption><a href='/index.html'>Чехлы и футляры</a></figcaption></figure></li>
 									</ul>
 								</div>
-								<div class="submenu">
+								<div class='submenu'>
 									<ul>
-										<li><figure><img src="/img/submenu/icone_related_products.svg" srcset="/img/submenu/icone_related_products.png"><figcaption><a href="/index.html">Сопутстввующие товары</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_cuts.svg" srcset="/img/submenu/icone_cuts.png"><figcaption><a href="/index.html">Средства от порезов</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_pre-shave.svg" srcset="/img/submenu/icone_pre-shave.png"><figcaption><a href="/index.html">Pre-shave косметика до бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_oil.svg" srcset="/img/submenu/icone_oil.png"><figcaption><a href="/index.html">Масло для бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_soap.svg" srcset="/img/submenu/icone_soap.png"><figcaption><a href="/index.html">Твердое мыло для бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_cream.svg" srcset="/img/submenu/icone_cream.png"><figcaption><a href="/index.html">Крем для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_related_products.svg' srcset='/img/submenu/icone_related_products.png'><figcaption><a href='/index.html'>Сопутстввующие товары</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_cuts.svg' srcset='/img/submenu/icone_cuts.png'><figcaption><a href='/index.html'>Средства от порезов</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_pre-shave.svg' srcset='/img/submenu/icone_pre-shave.png'><figcaption><a href='/index.html'>Pre-shave косметика до бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_oil.svg' srcset='/img/submenu/icone_oil.png'><figcaption><a href='/index.html'>Масло для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_soap.svg' srcset='/img/submenu/icone_soap.png'><figcaption><a href='/index.html'>Твердое мыло для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_cream.svg' srcset='/img/submenu/icone_cream.png'><figcaption><a href='/index.html'>Крем для бритья</a></figcaption></figure></li>
 									</ul>
 								</div>
-								<div class="submenu">
+								<div class='submenu'>
 									<ul>
-										<li><figure><img src="/img/submenu/icone_foam.svg" srcset="/img/submenu/icone_foam.png"><figcaption><a href="/index.html">Пена для бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_balm.svg" srcset="/img/submenu/icone_balm.png"><figcaption><a href="/index.html">Бальзам после бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_lotion.svg" srcset="/img/submenu/icone_lotion.png"><figcaption><a href="/index.html">Лосьон после бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_cream_after.svg" srcset="/img/submenu/icone_cream_after.png"><figcaption><a href="/index.html">Крем после бритья</a></figcaption></figure></li>
-										<li><figure><img src="/img/submenu/icone_gel_after.svg" srcset="/img/submenu/icone_gel_after.png"><figcaption><a href="/index.html">Гель после бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_foam.svg' srcset='/img/submenu/icone_foam.png'><figcaption><a href='/index.html'>Пена для бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_balm.svg' srcset='/img/submenu/icone_balm.png'><figcaption><a href='/index.html'>Бальзам после бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_lotion.svg' srcset='/img/submenu/icone_lotion.png'><figcaption><a href='/index.html'>Лосьон после бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_cream_after.svg' srcset='/img/submenu/icone_cream_after.png'><figcaption><a href='/index.html'>Крем после бритья</a></figcaption></figure></li>
+										<li><figure><img src='/img/submenu/icone_gel_after.svg' srcset='/img/submenu/icone_gel_after.png'><figcaption><a href='/index.html'>Гель после бритья</a></figcaption></figure></li>
 									</ul>
 								</div>
 								
@@ -187,212 +194,86 @@
 				</div>
 			</div>
 			<nav></nav>
-			<div id="content" style="">
-				<aside>
-                    <div id="aside">
-						<ul id="sociality-filtr">
-							<li class="sociality new"><input type="botton" value='Новинка'></li>
-							<li class="sociality lidership"><input type="botton" value='Лидер продаж'></li>
-							<li class="sociality action"><input type="botton" value='Акция'></li>    
-						</ul>
-						<ul id="technical-data-filtr">
-							<li class="technical" onClick='asideFiltrs()'>
-								<div>
-									<div>
-										<h3>Бренд</h3>
-										
+			<div id="content">
+								<div id="slider">
+					<section>
+						<!-- Place somewhere in the <body> of your page -->
+							<div class="flexslider">
+														
+								<!-- Slideshow container -->
+								<div class="slideshow-container">
+
+								  <!-- Full-width images with number and caption text -->
+								<div class="mySlides fade">
+									
+									<div class="text">
+										<h2>Лучшее для лучших!</h2>
+										<h3>Сделано в Италии</h3>
 									</div>
-										<ul id='brand'>
-											<li class='CarpFawwcett'><span></span>Carp Fawwcett<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>Dear Beard<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>Aleksandrov<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>Monle<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>JS Sloane<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>D.R. Harrisac L.<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>Rockwell<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>The Chenical<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>Margan's Romade<span class='number'>12</span></li>
-											<li class="CarpFawwcett"><span></span>Solomon' Reard<span class='number'>12</span></li>
-										</ul>	
+									<a href="/index.html">Купить</a>
+									<div class="numbertext"></div>
 								</div>
-							</li>
-							<li class="technical" onClick='asideFiltrs()'>
-								<div>
-									<div>
-										<h3>Коллекция</h3>
-										
-									</div>	
-									<ul id='collected'>
-										<li class='Collection'><span></span>Коллекция<span class='number'>12</span></li>
-										<li class='Collection'><span></span>Коллекция<span class='number'>12</span></li>
-										<li class='Collection'><span></span>Коллекция<span class='number'>12</span></li>
-										<li class='Collection'><span></span>Коллекция<span class='number'>12</span></li>
-										<li class='Collection'><span></span>Коллекция<span class='number'>12</span></li>
-										<li class='Collection'><span></span>Коллекция<span class='number'>12</span></li>
-									</ul>
-								</div>
-							</li>
-							<li class="technical">
-								<div> 
-									<div>
-										<h3>Страна производитель</h3>
-										
-									</div>	
-									<ul id='manufacturer-contry active'>
-										<li class='Country'><span></span>Russia<span class='number'>12</span></li>
-										<li class='Country'><span></span>China<span class='number'>12</span></li>
-										<li class='Country'><span></span>India<span class='number'>12</span></li>
-										<li class='Country'><span></span>United States<span class='number'>12</span></li>
-										<li class='Country'><span></span>India<span class='number'>12</span></li>
-										<li class='Country'><span></span>United States<span class='number'>12</span></li>
-									</ul>
-								</div>
-							</li>
-							<li class="technical">
-								<div> 
-									<div>
-										<h3>Объем</h3>
+								<div class="mySlides fade">
 									
-									</div>	
-									<ul id='volume'>
-										<li class='Volume'><span></span>0.7<span class='number'>12</span></li>
-										<li class='Volume'><span></span>1.5<span class='number'>12</span></li>
-										<li class='Volume'><span></span>2<span class='number'>12</span></li>
-										<li class='Volume'><span></span>3.<span class='number'>12</span></li>
-										<li class='Volume'><span></span>7.2<span class='number'>12</span></li>
-									</ul>
-								</div>
-							</li>
-							<li class="technical">
-								<div>
-									<div>
-										<h3>Тип бритвы</h3>
-										
+									<div class="text">
+										<h2>Лучшее для лучших!</h2>
+										<h3>Сделано в Италии</h3>
 									</div>
-									<ul id='type-shaver'>
-										<li class='type-shaver'><span></span>Тип бритвы<span class='number'>12</span></li>
-										<li class='type-shaver'><span></span>T-образная<span class='number'>12</span></li>
-										<li class='type-shaver'><span></span>Эллектрический со шнуром<span class='number'>12</span></li>
-										<li class='type-shaver'><span></span>Эллектрический без шнура<span class='number'>12</span></li>
-									</ul>
+									<a href="/index.html">Купить</a>
+									<div class="numbertext"></div>
 								</div>
-							</li>
-							<li class="technical">
-								<div> 
-									<div>
-										<h3>Масса</h3>
+								<div class="mySlides fade">
 									
-									</div>	
-									<ul id='weight'>
-										<li class='weight'><span></span>0.10 kg<span class='number'>12</span></li>
-										<li class='weight'><span></span>1 kg<span class='number'>12</span></li>
-										<li class='weight'><span></span>1.2 kg<span class='number'>12</span></li>
-										<li class='weight'><span></span>3 kg<span class='number'>12</span></li>
-									</ul>
-								</div>
-							</li>
-							<li class="technical">
-								<div> 
-									<div>
-										<h3>Материал ворса</h3>
-										
-									</div>	
-									<ul id='material'>
-										<li class='material'><span></span>Барсук<span class='number'>12</span></li>
-										<li class='material'><span></span>Кабан<span class='number'>12</span></li>
-										<li class='material'><span></span>Синтетика<span class='number'>12</span></li>
-										<li class='material'><span></span>Мишка<span class='number'>12</span></li>
-									</ul>
-								</div>
-							</li>
-							<li class="technical">
-								<div> 
-									<div>
-										<h3>Размер помазка</h3>
-										
+									<div class="text">
+										<h2>Лучшее для лучших!</h2>
+										<h3>Сделано в Италии</h3>
 									</div>
-									<ul id='size'>
-										<li class='size'><span></span>Размер помазка<span class='number'>12</span></li>
-										<li class='size'><span></span>до 19 мм<span class='number'>12</span></li>
-										<li class='size'><span></span>от  19 мм<span class='number'>12</span></li>
-										<li class='size'><span></span>21 мм<span class='number'>12</span></li>
-										<li class='size'><span></span>25 мм<span class='number'>12</span></li>
-									</ul>
+									<a href="/index.html">Купить</a>
+									<div class="numbertext"></div>
 								</div>
-							</li>
-							<li class="technical">
-								<div> 
-									<div>
-										<h3>Материал рукояти</h3>
+								<div class="mySlides fade">
 									
-									</div>	
-									<ul id='material-heandle'>
-										<li class='heandle'><span></span>Метал<span class='number'>12</span></li>
-										<li class='heandle'><span></span>Синтетическая смола<span class='number'>12</span></li>
-										<li class='heandle'><span></span>Пластик<span class='number'>12</span></li>
-										<li class='heandle'><span></span>ABS – пластик<span class='number'>12</span></li>
-									</ul>
+									<div class="text">
+										<h2>Лучшее для лучших!</h2>
+										<h3>Сделано в Италии</h3>
+									</div>
+									<a href="/index.html">Купить</a>
+									<div class="numbertext"></div>
+								</div>								
+								  <!-- Next and previous buttons -->
+								  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+								  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 								</div>
-							</li>
-							<li class="technical">
-								<div> 
-									<div>
-										<h3>Ширина полотна</h3>
-										
-									</div>	
-									<ul id='width-material'>
-										<li class='material'><span></span>2,5 см<span class='number'>12</span></li>
-										<li class='material'><span></span>3 см<span class='number'>12</span></li>
-										<li class='material'><span></span>4 см<span class='number'>12</span></li>
-									</ul>
+								<br>
+								<!-- The dots/circles -->
+								<div style="text-align:center">
+								  <span class="dot" onclick="currentSlide(1)"></span>
+								  <span class="dot" onclick="currentSlide(2)"></span>
+								  <span class="dot" onclick="currentSlide(3)"></span>
 								</div>
-							</li>
-							<li class="technical">
-								<div>
-									<div><h3>Вогнутость</h3>
-									
-									<ul id='concavity'>
-										<li class='size'><span></span>1/1<span class='number'>12</span></li>
-										<li class='size'><span></span>1/2<span class='number'>12</span></li>
-										<li class='size'><span></span>1/4<span class='number'>12</span></li>
-									</ul>
-								</div>
-							</li>
-							<li class="technical">
-								<div>
-									<div>
-										<h3>Назначение подставки</h3>
-									
-									</div>	
-									<ul id='target-stand'>
-										<li class='target-stand'><span></span>Для помазка<span class='number'>12</span></li>
-										<li class='target-stand'><span></span>Для бритвы<span class='number'>12</span></li>
-									</ul>
-								</div>
-							</li>
-						</ul>   
-						<div id="price-filtr-block">
-							<div class="filtr-title technical">
-									<h3>Цена</h3>
 							</div>
-							<div id='filtr-form-range'>
-								<input type='range' step='1' min='0' max='3000' value='0' id='range-min' class='form-range form-min ui-slider-handle'>
-								
-							</div>
-							<div id='filtr-number'>
-								<input type='number' class='number number-min form-min' min='0' max='2999' step='1' value='50'>
-								<input type='number' class='number number-max form-max' min='100' max='3001' step='1' value='1000'>
-																
-							</div>
-							<div class="polzunok-container-5">
-    <input type="text" class="polzunok-input-5-left" />
-    <input type="text" class="polzunok-input-5-right "/>
-    <div class="polzunok-5"></div>
-</div>
+						  <!-- ul class="slides">
+							<li>
+							  <img src="/img/tovar2.png" />
+							</li>
+							<li>
+							  <img src="slide2.jpg" />
+							</li>
+							<li>
+							  <img src="slide3.jpg" />
+							</li>
+							<li>
+							  <img src="slide4.jpg" />
+							</li>
+						  </ul >
 						</div>
-					</div>
-				</aside>		
-				<div id="catalog">
+						<div id="slogan1"><h2>Лучшее для лучших</h2></div>
+						<div id="slogan"><h3>Сделано в италии</h3></div>
+						<div id="buy"><a href="/index.html">Купить</a></div -->
+
+					</section>
+				</div>
+				<div id="hit">
 					<section>
 						<div class="name"><h2>Хиты продаж</h2></div>
 						<div class="flexslider">
@@ -401,7 +282,7 @@
 								<div>
 									<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 									<div class="tovar">
-										<img src="/img/tovar1.png">
+										<img src='/img/tovar1.png' />
 									</div>
 									<div class="title"><h4>Паста для волос</h4></div>
 									<div class="brand">Borodist Mint Candy</div>
@@ -414,7 +295,7 @@
 								<div>
 									<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 									<div class="tovar">
-										<img src="/img/tovar2.png">
+										<img src="/img/tovar2.png" />
 									</div>
 									<div class="title"><h4>Паста для волос</h4></div>
 									<div class="brand">Borodist Mint Candy</div>
@@ -427,7 +308,7 @@
 								<div>
 									<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 									<div class="tovar">
-										<img src="/img/tovar3.png">
+										<img src="/img/tovar3.png" />
 									</div>
 									<div class="title"><h4>Паста для волос</h4></div>
 									<div class="brand">Borodist Mint Candy</div>
@@ -440,7 +321,7 @@
 								<div>
 									<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 									<div class="tovar">
-										<img src="/img/tovar4.png">
+										<img src="/img/tovar4.png" />
 									</div>
 									<div class="title"><h4>Паста для волос</h4></div>
 									<div class="brand">Borodist Mint Candy</div>
@@ -460,32 +341,32 @@
 							<ul>
 								<li>
 									<div><!-- img src="/img/romb.png" / --> 
-									<object data="/svg/romb.svg" type="image/svg+xml"></object> </div>
+									<object data='/svg/romb.svg' type='image/svg+xml'></object> </div>
 									<div class="why-title title">
 										<h5>Скидки постоянным клиентам</h5>
 									</div>
 								</li>
 								<li>
 															
-									<div><!-- img src="/img/romb2.png" / --> <object data="/svg/romb2.svg" type="image/svg+xml"></object></div>
+									<div><!-- img src="/img/romb2.png" / --> <object data='/svg/romb2.svg' type='image/svg+xml'></object></div>
 									<div class="why-title title">
 										<h5>Оригинальная продукция мировых брендов</h5>
 									</div>
 								</li>
 								<li>
-									<div><!-- img src="/img/romb3.png" / --> <object data="/svg/romb3.svg" type="image/svg+xml"></object></div>
+									<div><!-- img src="/img/romb3.png" / --> <object data='/svg/romb3.svg' type='image/svg+xml'></object></div>
 									<div class="why-title title">
 										<h5>Удобные способы оплаты</h5>
 									</div>
 								</li>
 								<li>
-									<div><!-- img src="/img/romb4.png" / --> <object data="/svg/romb4.svg" type="image/svg+xml"></object></div>
+									<div><!-- img src="/img/romb4.png" / --> <object data='/svg/romb4.svg' type='image/svg+xml'></object></div>
 									<div class="why-title title">
 										<h5>Доставка по всей России</h5>
 									</div>
 								</li>
 								<li>
-									<div><!-- img src="/img/romb5.png" / --> <object data="/svg/romb5.svg" type="image/svg+xml"></object></div>
+									<div><!-- img src="/img/romb5.png" / --> <object data='/svg/romb5.svg' type='image/svg+xml'></object></div>
 									<div class="why-title title">
 										<h5>Индивидуальный подход</h5>
 									</div>
@@ -503,7 +384,7 @@
 									<div>
 										<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 										<div class="tovar">
-											<img src="/img/tovar5.png">
+											<img src="/img/tovar5.png" />
 										</div>
 										<div class="title"><h4>Паста для волос</h4></div>
 										<div class="brand">Borodist Mint Candy</div>
@@ -516,7 +397,7 @@
 									<div>
 										<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 										<div class="tovar">
-											<img src="/img/tovar6.png">
+											<img src="/img/tovar6.png" />
 										</div>
 										<div class="title"><h4>Паста для волос</h4></div>
 										<div class="brand">Borodist Mint Candy</div>
@@ -529,7 +410,7 @@
 									<div>
 										<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 										<div class="tovar">
-											<img src="/img/tovar7.png">
+											<img src="/img/tovar7.png" />
 										</div>
 										<div class="title"><h4>Паста для волос</h4></div>
 										<div class="brand">Borodist Mint Candy</div>
@@ -542,7 +423,7 @@
 									<div>
 										<div class="rating"><div><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda active"></span><span class="zvezda"></span></div><div class="bal">4,00</div><div class="hit-flag"><span class="active"></span></div></div>
 										<div class="tovar">
-											<img src="/img/tovar8.png">
+											<img src="/img/tovar8.png" />
 										</div>
 										<div class="title"><h4>Паста для волос</h4></div>
 										<div class="brand">Borodist Mint Candy</div>
@@ -564,50 +445,50 @@
 							<li>
 								<div class="brand-img">
 									<div class="brand">
-										<img src="/img/brend.png">
+										<img src="/img/brend.png" />
 									</div>
 									<div class="brand">
-										<img src="/img/brend6.png">
-									</div>
-								</div>
-							</li>
-							<li>
-								<div class="brand-img">
-									<div class="brand">
-										<img src="/img/brend2.png">
-									</div>
-									<div class="brand">
-										<img src="/img/brend7.png">
+										<img src="/img/brend6.png" />
 									</div>
 								</div>
 							</li>
 							<li>
 								<div class="brand-img">
 									<div class="brand">
-										<img src="/img/brend3.png">
+										<img src="/img/brend2.png" />
 									</div>
 									<div class="brand">
-										<img src="/img/brend8.png">
-									</div>
-								</div>
-							</li>
-							<li>
-								<div class="brand-img">
-									<div class="brand">
-										<img src="/img/brend4.png">
-									</div>
-									<div class="brand">
-										<img src="/img/brend9.png">
+										<img src="/img/brend7.png" />
 									</div>
 								</div>
 							</li>
 							<li>
 								<div class="brand-img">
 									<div class="brand">
-										<img src="/img/brend5.png">
+										<img src="/img/brend3.png" />
 									</div>
 									<div class="brand">
-										<img src="/img/brend10.png">
+										<img src="/img/brend8.png" />
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="brand-img">
+									<div class="brand">
+										<img src="/img/brend4.png" />
+									</div>
+									<div class="brand">
+										<img src="/img/brend9.png" />
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="brand-img">
+									<div class="brand">
+										<img src="/img/brend5.png" />
+									</div>
+									<div class="brand">
+										<img src="/img/brend10.png" />
 									</div>
 								</div>
 							</li>
@@ -685,13 +566,13 @@
 					<div class="name"><h2>Видеоуроки</h2></div>
 					<div class="wrap">
 						<div id="slider1" class="slider">
-							<div onclick="right()" class="right"><span></span></div>
+							<div onClick="right()" class="right"><span></span></div>
 							<ul>
-								<li class="s favorite"><div style=""><video controls="" src="/video/goal.mp4"></video></div></li>
-								<li class="s"><div style=""><video controls="" src="/video/goal.mp4"></video></div></li>
-								<li class="s"><div style=""><video controls="" src="/video/goal.mp4"></video></div></li>
+								<li class='s favorite'><div style=""><video controls src="/video/goal.mp4" ></video></div></li>
+								<li class="s"><div style=""><video controls src="/video/goal.mp4" ></video></div></li>
+								<li class='s'><div style=""><video controls src="/video/goal.mp4"></video></div></li>
 							</ul>
-							<div onclick="left()" class="left"><span></span></div>
+							<div onClick="left()" class="left"><span></span></div>
 						</div>
 						
 					</div>
@@ -709,7 +590,7 @@
 						<p class="kosmetika">подпишитесь на новости и специальные предложения</p>
 						<div id="question">
 							<div class="form">
-								<object data="/svg/kasper.svg" type="image/svg+xml"></object>
+								<object data="/svg/kasper.svg" type="image/svg+xml" ></object>
 								<form>
 									<div>
 										<div id="form-text_02">												
@@ -767,7 +648,8 @@
 								<div id="footer003">
 									<div class="title"><h4>Каталог</h4></div>
 									<div id="footer004" class="footer">
-										<ul><li class="fotmenu">
+										<ul>
+											<li class="fotmenu">
 												<ul>
 													<li><a href="/index.html">Каталог</a></li>
 													<li><a href="/index.html">Все для бритья</a></li>
@@ -811,26 +693,6 @@
 								
 								};
 							
-								
-								$('.technical > div > div h3').click( 
-									function(){
-										$(this)
-										.toggleClass('active-filtr-h3')
-										.parents('.technical > div')
-										.children('ul')
-										.toggleClass('active-filtr');
-										
-										$('ul.active-filtr > li').click(
-											function(){
-												$(this).toggleClass('active-filtr-position');
-											}
-										
-										);
-									}
-								);
-								
-								
-							
 							$('.right').click(function(){
 									// alert('Право удоляем');
 									
@@ -841,8 +703,6 @@
 									$('li.s:last-child').addClass('favorite');
 								}
 							);
-							
-							
 							
 							$('.left').click(function(){
 									// alert('Лево удоляем');
@@ -858,16 +718,9 @@
 								}
 							);
 							
-							$(
-								function(){
-								$( "#trange-min" ).slider({
-								range: true,
-								min: 0,
-								max: 500,
-								values: [ 75, 300 ],
-								};
-								}
-							);
+							
+							
+							
 								
 
 						</script>
@@ -877,10 +730,6 @@
 			</footer>
 			
 		</div>
-	</div>
-
-						
-				
 	</article>
 </body>
 
