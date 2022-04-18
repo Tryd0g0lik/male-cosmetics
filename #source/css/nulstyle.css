@@ -1,0 +1,86 @@
+@-ms-viewport{width: device-width;}
+@-o-viewport{width: device-width;}
+@viewport{width: device-width;}
+#body, footer {/* width: 1920px; *//* margin:0 auto; *//* max-width: 1170px; */display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;-ms-flex-preferred-size: 1920px;flex-basis: 1920px;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;/* align-items: center; */}
+/* sbros stilei */
+* { -webkit-box-sizing: border-box; box-sizing: border-box;  -moz-box-sizing: border-box;}
+#body *{}
+html, body, div, object, ifreine, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, addr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, ol, ul, li, fieldset, form, ladel, legent, table, caption, tbody, tfoot, thead, tr,  th, td, article, aside, canvas, details, embed, figure, figcapcion, footer,  header, hgroup, menu, var, output, ruby, time, mark, audio, video, select{margin:0; padding:0; border:0px; vertical-align:baseline;     -webkit-box-sizing: content-box;     box-sizing: content-box; -moz-sizing:content-box;  position: relative; vertical-align:top; font-family:'Open-Sans', 'Arial', 'sans-serif', 'Helvetica'; font-size: 12px;}
+form, input, button{ -webkit-box-sizing: content-box; box-sizing: content-box; }
+button, input[type='submit'], input[type='button'], input[type='reset'] {cursor:pointer;}
+div, article, aside, details, figcapcion, figure, footer, header, hgroup, menu, nav, section{display:block; border:0;}
+body{line-height:1.2;}
+table{border-collapse:collapse; border-spacing:0;}
+ol{padding-left:0; list-style: decimal;}
+ul{padding-left:0; list-style: square;}
+blockquote,q {quotes:none;}
+blockquote:before, blockquote:after, q:before, q:after{content: ''; content:none;}
+ul li{list-style-type: none;}
+*{zoom:1}
+/* font */
+@font-face {
+    font-family: 'Open-Sans';
+    src: url('../font/opensans/opensans.eot');
+    src: url('../font/opensans/opensans.eot?#iefix') format('embedded-opentype'),
+        url('../font/opensans/opensans.woff2') format('woff2'),
+        url('../font/opensans/opensans.woff') format('woff'),
+        url('../font/opensans/opensans.ttf') format('truetype'),
+        url('../font/opensans/opensans.svg#opensans') format('svg');
+    font-weight: normal;
+    font-style: normal; 
+	
+    font-family: 'opensans-light';
+    src: url('../font/opensans-light/opensans-light.eot');
+    src: url('../font/opensans-light/opensans-light.eot?#iefix') format('embedded-opentype'),
+        url('../font/opensans-light/opensans-light.woff2') format('woff2'),
+        url('../font/opensans-light/opensans-light.woff') format('woff'),
+        url('../font/opensans-light/opensans-light.ttf') format('truetype'),
+        url('../font/opensans-light/opensans-light.svg#opensans-light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+	font-family: 'axpadvergothicc';
+    src: url('../font/axp/axpadvergothicc.eot');
+    src: url('../font/axp/axpadvergothicc.eot?#iefix') format('embedded-opentype'),
+        url('../font/axp/axpadvergothicc.woff2') format('woff2'),
+        url('../font/axp/axpadvergothicc.woff') format('woff'),
+        url('../font/axp/axpadvergothicc.ttf') format('truetype'),
+        url('../font/axp/axpadvergothicc.svg#axpadvergothicc') format('svg');
+    font-weight: 300;
+    font-style: normal;
+	
+	
+	font-family: 'Oswald';
+    src: url('../font/oswald-light/oswald.eot');
+    src: url('../font/oswald-light/oswald.eot?#iefix') format('embedded-opentype'),
+        url('../font/oswald-light/oswald.woff2') format('woff2'),
+        url('../font/oswald-light/oswald.woff') format('woff'),
+        url('../font/oswald-light/oswald.ttf') format('truetype'),
+        url('../font/oswald-light/oswald.svg#oswald') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+	
+	font-family: 'Oswald-Medium';
+    src: url('../font/oswald-medium/oswaldmedium.eot');
+    src: url('../font/oswald-medium/oswaldmedium.eot?#iefix') format('embedded-opentype'),
+        url('../font/oswald-medium/oswaldmedium.woff2') format('woff2'),
+        url('../font/oswald-medium/oswaldmedium.woff') format('woff'),
+        url('../font/oswald-medium/oswaldmedium.ttf') format('truetype'),
+        url('../font/oswald-medium/oswaldmedium.svg#oswaldmedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+	
+	font-family: 'plumblight';
+    src: url('../font/plumb-light/plumblight.eot');
+    src: url('../font/plumb-light/plumblight.eot?#iefix') format('embedded-opentype'),
+        url('../font/plumb-light/plumblight.woff2') format('woff2'),
+        url('../font/plumb-light/plumblight.woff') format('woff'),
+        url('../font/plumb-light/plumblight.ttf') format('truetype'),
+        url('../font/plumb-light/plumblight.svg#plumblight') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+/*# sourceMappingURL=nulstyle.css.map */

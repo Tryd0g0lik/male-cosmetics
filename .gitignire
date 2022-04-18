@@ -1,0 +1,10 @@
+*.jpg
+*.png
+*.svg
+*.json
+*.config
+*.gif
+*.json
+BackUp/
+backup-css/
+video/

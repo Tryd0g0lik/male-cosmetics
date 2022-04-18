@@ -1,0 +1,278 @@
+<svg id="Futer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="214" height="209" viewBox="0 0 214 209">
+  <defs>
+    <style>
+      .cls-1, .cls-11, .cls-25, .cls-26, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-2, .cls-22, .cls-28, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #c5b59b;
+      }
+
+      .cls-3, .cls-8 {
+        font-size: 18px;
+      }
+
+      .cls-12, .cls-3, .cls-7, .cls-8 {
+        text-anchor: middle;
+      }
+
+      .cls-12, .cls-13, .cls-17, .cls-21, .cls-23, .cls-24, .cls-25, .cls-27, .cls-3, .cls-5, .cls-7, .cls-8 {
+        font-family: "Open Sans";
+        font-weight: 300;
+      }
+
+      .cls-4 {
+        filter: url(#filter);
+      }
+
+      .cls-24, .cls-25, .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-5 {
+        fill: #898886;
+      }
+
+      .cls-6 {
+        fill: #645d6f;
+      }
+
+      .cls-7 {
+        font-size: 21.596px;
+      }
+
+      .cls-16, .cls-18, .cls-21, .cls-23, .cls-24, .cls-8 {
+        fill: #252422;
+      }
+
+      .cls-9 {
+        filter: url(#filter-2);
+      }
+
+      .cls-10, .cls-22 {
+        fill: none;
+        stroke-width: 1px;
+      }
+
+      .cls-10 {
+        stroke: #461e1a;
+      }
+
+      .cls-11 {
+        stroke: #c5c7c6;
+        stroke-width: 2px;
+      }
+
+      .cls-12 {
+        font-size: 20.811px;
+      }
+
+      .cls-13 {
+        font-size: 16.358px;
+      }
+
+      .cls-14 {
+        fill: #bebebe;
+      }
+
+      .cls-15 {
+        fill: #e4e4e4;
+      }
+
+      .cls-16 {
+        font-size: 16.182px;
+      }
+
+      .cls-16, .cls-19 {
+        font-family: Oswald;
+        font-weight: 500;
+      }
+
+      .cls-17, .cls-20, .cls-21 {
+        font-size: 16.186px;
+      }
+
+      .cls-19, .cls-27 {
+        font-size: 16px;
+      }
+
+      .cls-22 {
+        stroke: #e4e4e4;
+      }
+
+      .cls-23 {
+        font-size: 16.15px;
+      }
+
+      .cls-28 {
+        filter: url(#filter-4);
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#252422"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#645d6f"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="529" y="-1663" width="18" height="18" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#251718"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <image id="image" width="950" height="67" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAA7YAAABDCAYAAACoTZmvAAAEFUlEQVR4nO3dz6vlcwDG8WeYP8UfIMwCyUKJ0lhYSX5EWVhZoKyUlcLCymIW8iPZWU1CzUYWMs1YWCGKDUkK+Rmjk3Nr9J3LmXvP95zPc+7rtbyfe+/5nrt46l333s+x90+fupDdc2wH3xMcdbYKaGKzgJHt3EZdMfkIAAAAFBG2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVBO2AAAAVNtk2L6T5Jok701OAMZhq4AmNgsY2cY2ahNh+0eSJ5LcluR8kluSvDD5LIDtslVAE5sFjGzjGzV32H6W5IYkzya5sPzY4k0+muTuJD9NvgJg82wV0MRmASPbykbNGbavJbk2ydnJyT/eSHJ9kk8mJwCbY6uAJjYLGNnWNmqOsP0xyf1J7k3yw+T03z5OciLJm5MTgHnZKqCJzQJGtvWNWnfYnl0W+iuTk/0t3vhdSZ5M8ue+nwWwPrYKaGKzgJENsVHrCtvF704/n+TGJJ9OTlf7+meS3Jrk28kpwHrYKqCJzQJGNtRGrSNsv0lye5LHkvw+Ob08Z5a1/8EangvAVgGtbBYwsuE26rBhu7iX6Ookb09ODu6rJDcneXGN3xM42mwV0MRmASMbcqMOGrYX30v09eT08H5L8kiSB5L8MsP3B44GWwU0sVnAyIbeqIOE7aXuJZrLy8vX+nzm1wF2j60CmtgsYGTDb9Tlhu3/3Us0h4+SXJfk9AZfE+hmq4AmNgsYWcVGrRq2i3uJ7lvxXqI5fJ/kZJKnkvy1hdcHOtgqoInNAkZWtVGrhO3evUSvTk42a/Fmnk5yR5LvtvwswHhsFdDEZgEjq9uo/wrbw95LNJe3kpxIcm6gZwK2x1YBTWwWMLLajdovbNd5L9Ecvlj+sF8a8NmAzbFVQBObBYyseqMuFbZz3Es0h1+TPJjk4eW/hgaOFlsFNLFZwMjqN+risF3cS/T4jPcSzeVUkpuSfFn0zMDB2Sqgic0CRrYzG7UXtnv3Ej23gXuJ5vDh8o+b3y18dmB1tgpoYrOAke3URl350D0nr0py5/J3lpv9nOT1JMeTnCl/L8CUrQKa2CxgZLu1UcnxvwFCnFX4UcrF5gAAAABJRU5ErkJggg=="/>
+  </defs>
+  <g id="Подписка_на_новости" data-name="Подписка на новости">
+    <path id="Прямоугольник_9" data-name="Прямоугольник 9" class="cls-1" d="M-125,4606H447v44H-125v-44h0Z"/>
+    <path id="Прямоугольник_8_копия" data-name="Прямоугольник 8 копия" class="cls-2" d="M345,4606H447v44H345v-44h0Z"/>
+    <text id="Введите_ваш_E-mail" data-name="Введите ваш E-mail" class="cls-3" x="-21" y="4633.99"><tspan x="-21">Введите ваш E-mail</tspan></text>
+  </g>
+  <g id="Menu" class="cls-4">
+    <text id="_О_нас_Контакты_Вакансии_Наши_скидки_Партнер" data-name="    О нас     Контакты     Вакансии     Наши скидки     Партнер" class="cls-5" x="-280.999" y="4900.005">    О нас<tspan x="-280.999" dy="27.006">    Контакты</tspan><tspan x="-280.999" dy="27.006">    Вакансии</tspan><tspan x="-280.999" dy="27.006">    Наши скидки</tspan><tspan x="-280.999" dy="27.006">    Партнеры</tspan><tspan x="-280.999" dy="27.006">    Карта сайта</tspan></text>
+    <text id="_Каталог_Всё_для_бритья_Уход_за_бородой_и_усами_" data-name="      Каталог     Всё для бритья     Уход за бородой и усами   " class="cls-5" x="148" y="4873.002"> <tspan x="148" dy="27.006">    Каталог</tspan><tspan x="148" dy="27.006">    Всё для бритья</tspan><tspan x="148" dy="27.006">    Уход за бородой и усами</tspan><tspan x="148" dy="27.006">    Уход за волосами и стайлинг</tspan><tspan x="148" dy="27.006">    Уход за телом и лицом</tspan><tspan x="148" dy="27.006">    Мужские аксессуары</tspan><tspan x="148" dy="27.006">    Идеи Подарков</tspan></text>
+    <text id="_Способы_оплаты_Возврат_товара_Доставка_Статьи_" data-name="    Способы оплаты     Возврат товара     Доставка     Статьи  " class="cls-5" x="-138" y="4900.005">    Способы оплаты<tspan x="-138" dy="27.006">    Возврат товара</tspan><tspan x="-138" dy="27.006">    Доставка</tspan><tspan x="-138" dy="27.006">    Статьи</tspan><tspan x="-138" dy="27.006">    Новости</tspan><tspan x="-138" dy="27.006">    Политика конфиденицальности</tspan></text>
+  </g>
+  <path id="Прямоугольник_8_копия_2" data-name="Прямоугольник 8 копия 2" class="cls-6" d="M433,5025H653v44H433v-44h0Z"/>
+  <text id="Написать_нам" data-name="Написать нам" class="cls-7" transform="translate(542.629 5054.059) scale(0.834)"><tspan x="0">Написать нам</tspan></text>
+  <path id="Прямоугольник_8_копия_3" data-name="Прямоугольник 8 копия 3" class="cls-6" d="M433,5075H653v44H433v-44h0Z"/>
+  <text id="Заказать_звонок" data-name="Заказать звонок" class="cls-7" transform="translate(542.629 5104.073) scale(0.834)"><tspan x="0">Заказать звонок</tspan></text>
+  <g id="Все_что_нужно_знать" data-name="Все что нужно знать">
+    <path id="Прямоугольник_2_копия_3" data-name="Прямоугольник 2 копия 3" class="cls-6" d="M-18,4311H220v57H-18v-57h0Z"/>
+    <text id="Вот_уже_года_два_как_человечество_празднует_возвращение_бороды" data-name="Вот уже года два, как человечество празднует возвращение бороды" class="cls-8" x="-354.001" y="4124.009"><tspan x="-354.001">Вот уже года два, как человечество празднует возвращение бороды на мужское лицо. Не просто длинной щетины, а полновесной окладистой лопаты. Но чем больше борода, тем больше загадок она таит </tspan><tspan x="-354.001" dy="30.006">(и это даже не остатки еды*). Как ее выбирать, как отращивать, как ухаживать, нравится ли </tspan><tspan x="-354.001" dy="30.006">она женщинам? Все, что нужно знать о бороде есть на нашем сайте!</tspan></text>
+  </g>
+  <g id="Видеоуроки">
+    <g id="Ютуб" class="cls-9">
+      <path id="Прямоугольник_10" data-name="Прямоугольник 10" class="cls-10" d="M-90,3683H289v55H-90v-55h0Z"/>
+    </g>
+  </g>
+  <g id="Акции">
+    <path id="Прямоугольник_23_копия_16" data-name="Прямоугольник 23 копия 16" class="cls-11" d="M-485,2074h272v575H-485V2074h0Z"/>
+    <path id="Прямоугольник_23_копия_17" data-name="Прямоугольник 23 копия 17" class="cls-11" d="M-186,2074H86v575H-186V2074h0Z"/>
+    <g id="Описание">
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_8" data-name="Borodist Mint Candy  Матирующее средство  копия 8" class="cls-12" transform="translate(-351.604 2467.538) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_12" data-name="Borodist Mint Candy  Матирующее средство  копия 12" class="cls-12" transform="translate(-56.603 2467.538) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_13" data-name="Borodist Mint Candy  Матирующее средство  копия 13" class="cls-12" transform="translate(244.397 2467.538) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_14" data-name="Borodist Mint Candy  Матирующее средство  копия 14" class="cls-12" transform="translate(541.396 2467.538) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+    </g>
+    <g id="Кнопки">
+      <path id="Прямоугольник_32_копия_17" data-name="Прямоугольник 32 копия 17" class="cls-6" d="M-440,2577h180v46H-440v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_18" data-name="Прямоугольник 32 копия 18" class="cls-6" d="M-140,2577H40v46H-140v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_19" data-name="Прямоугольник 32 копия 19" class="cls-6" d="M160,2577H340v46H160v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_20" data-name="Прямоугольник 32 копия 20" class="cls-6" d="M458,2577H638v46H458v-46h0Z"/>
+    </g>
+    <g id="Звезды">
+      <text id="_4_00_копия_15" data-name="4,00 копия 15" class="cls-13" transform="translate(563.595 2107.723) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия_12" data-name="4,00 копия 12" class="cls-13" transform="translate(-333.406 2107.723) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия_13" data-name="4,00 копия 13" class="cls-13" transform="translate(-34.406 2107.723) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия_14" data-name="4,00 копия 14" class="cls-13" transform="translate(266.595 2107.723) scale(0.754 0.873)">4,00</text>
+    </g>
+    <g id="Флажки">
+      <use id="Группа_2_копия_2" data-name="Группа 2 копия 2" x="-274" y="2075" xlink:href="#image"/>
+    </g>
+  </g>
+  <g id="Новинки">
+    <path id="Прямоугольник_23_копия_11" data-name="Прямоугольник 23 копия 11" class="cls-11" d="M413,562H685v575H413V562h0Z"/>
+    <path id="Прямоугольник_23_копия_8" data-name="Прямоугольник 23 копия 8" class="cls-11" d="M-484,562h272v575H-484V562h0Z"/>
+    <path id="Прямоугольник_23_копия_9" data-name="Прямоугольник 23 копия 9" class="cls-11" d="M-185,562H87v575H-185V562h0Z"/>
+    <path id="Прямоугольник_23_копия_10" data-name="Прямоугольник 23 копия 10" class="cls-11" d="M116,562H388v575H116V562h0Z"/>
+    <g id="Описание-2" data-name="Описание">
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_4" data-name="Borodist Mint Candy  Матирующее средство  копия 4" class="cls-12" transform="translate(-350.603 955.544) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_5" data-name="Borodist Mint Candy  Матирующее средство  копия 5" class="cls-12" transform="translate(-55.603 955.544) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_6" data-name="Borodist Mint Candy  Матирующее средство  копия 6" class="cls-12" transform="translate(245.396 955.544) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_7" data-name="Borodist Mint Candy  Матирующее средство  копия 7" class="cls-12" transform="translate(542.396 955.544) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+    </g>
+    <g id="Кнопки-2" data-name="Кнопки">
+      <path id="Прямоугольник_32_копия_9" data-name="Прямоугольник 32 копия 9" class="cls-6" d="M-439,1065h180v46H-439v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_10" data-name="Прямоугольник 32 копия 10" class="cls-6" d="M-139,1065H41v46H-139v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_11" data-name="Прямоугольник 32 копия 11" class="cls-6" d="M161,1065H341v46H161v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_12" data-name="Прямоугольник 32 копия 12" class="cls-6" d="M459,1065H639v46H459v-46h0Z"/>
+    </g>
+    <g id="Звезды-2" data-name="Звезды">
+      <text id="_4_00_копия_7" data-name="4,00 копия 7" class="cls-13" transform="translate(564.594 595.719) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия_4" data-name="4,00 копия 4" class="cls-13" transform="translate(-332.406 595.719) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия_5" data-name="4,00 копия 5" class="cls-13" transform="translate(-33.406 595.719) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия_6" data-name="4,00 копия 6" class="cls-13" transform="translate(267.594 595.719) scale(0.754 0.873)">4,00</text>
+    </g>
+    <g id="Флажки-2" data-name="Флажки">
+      <use id="Группа_2" data-name="Группа 2" x="-273" y="563" xlink:href="#image"/>
+    </g>
+  </g>
+  <g id="Почему_Мы" data-name="Почему Мы">
+    <g id="_4" data-name="4">
+      <image id="Слой_33" data-name="Слой 33" x="293" y="69" width="99" height="51" xlink:href="data:img/png;base64,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"/>
+    </g>
+    <g id="_3" data-name="3">
+      <image id="Слой_31_копия_5" data-name="Слой 31 копия 5" x="-2" y="-2" width="202" height="213" xlink:href="data:img/png;base64,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"/>
+      <image id="Слой_34" data-name="Слой 34" x="68" y="59" width="64" height="55" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA3CAYAAAC8TkynAAADoklEQVRoge2aS2xMURjHf7ett3q03u941TOIFPGKJkhX9iS2QiKRorHASkR0IXYsLCSIRGxEPIOQYCEW7IgKQRCPhHqVlsrH/zbXHCZzOzN17kx/yUlnTs/cud//nLnfd77vBJMmjidB9AD6AlOAWcBSYCHwGtgOXADa4phT5vT4hRlbCUyQ0dOB+cBkoDxyp6OBPcBD4EGSBTCjBgJjgTnAXBlc5Yx0malVkSgBAhk7VQabASP1vsIZnZ5SrZRYdLYAgZbyKM3qPP21vn7O6PjYtfoAnzL9ZGcIUBFZytW6yQHAIM1aLlkADAcaM71mPgQYIWNny9gZwFAJUeKMzi1VelDmXYBAs9dbS9d86SJgiR5Gg+WyOhsTeBlwHviaLwECGbxUbbLcUHfdgPnht8CPuD45S+y7egLj5D7zJoB90TvgJnAd+AY0y+D/jU1AqyYgI1IFyMT1tOlLnut1oOYTA/9yTx+AltR7DAUwv7tBPrnEk9nMFeEEWbh8FLgSvW6ZjD+mQKTQWQGsB86Edtps7ygS41EAVg8MCztMgBpnWGEzDRgTFcC3B1i+KZO7/EVJJ/tqH/gjPsl3aOo9XQI4PUVGlwBOT+FTGvV8vidFU/mq1lHXbfY2aS/T3pEEXgFHgNPAmyxWbrhbfJQkAe4CG7X1zjm+C/AR2B0xfiIwJAfBm62E98B93wW4CpzV61XAXmWfvjsj4xEoc9zguwD3dKOW6t6k9HmusCJMne9uMJxpE6CX89/fNDs9mRP4vgLCusGPv6SzrgGHgWdaGeuUkY5Da9LigBBziXWR5Ocl4BxwEFjujE5DEiPBp8pipWZ+rTLcALxwPpGGJApwGXjp9P7matzqcBIFaE7jBltVp8iYJApQk6aSPFPBUsYkUQArgG4BuqX0WzFkm2obGZNUL1Cv+uRxPQ/sYMRaoDbuTtF3AcIKVUnKarVC7GpgJfAZ6J/mZ5EW3wUIZ/NLdA8foVKto5T6LkBYq7TC5gmdISp3RnUME/SU7wIs1lPffP8BBTuztB3OZkvcTUkR7wWw4zZbZfhj4KJazkiCF6jV8j8E3NLPoaM5wVJtqp6Hu8ikuMFqtUZlcrIRwJKim4Hb1pG0OCBWlPcPWqIusxjrAk3R3EJXZcjpKTK6BHB6ioxiPCITRCe+GAVoi2aNTIA7zpDC5kk0p2gC7IpWSwsciwH2S4RfWCR4A1gD7NRZ+2x3Wr4RHu23dPk+4GR7UhX4CWcrmmLD5Ra3AAAAAElFTkSuQmCC"/>
+    </g>
+  </g>
+  <g id="Хиты_продаж" data-name="Хиты продаж">
+    <path id="Прямоугольник_23_копия_4" data-name="Прямоугольник 23 копия 4" class="cls-11" d="M-484-823h272v575H-484V-823h0Z"/>
+    <path id="Прямоугольник_23_копия_5" data-name="Прямоугольник 23 копия 5" class="cls-11" d="M-185-823H87v575H-185V-823h0Z"/>
+    <path id="Прямоугольник_23_копия_6" data-name="Прямоугольник 23 копия 6" class="cls-11" d="M116-823H388v575H116V-823h0Z"/>
+    <path id="Прямоугольник_23_копия_7" data-name="Прямоугольник 23 копия 7" class="cls-11" d="M413-823H685v575H413V-823h0Z"/>
+    <g id="Описание_товара" data-name="Описание товара">
+      <text id="Borodist_Mint_Candy_Матирующее_средство_" data-name="Borodist Mint Candy  Матирующее средство " class="cls-12" transform="translate(-350.603 -429.455) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия" data-name="Borodist Mint Candy  Матирующее средство  копия" class="cls-12" transform="translate(-55.603 -429.455) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_2" data-name="Borodist Mint Candy  Матирующее средство  копия 2" class="cls-12" transform="translate(245.396 -429.455) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+      <text id="Borodist_Mint_Candy_Матирующее_средство_копия_3" data-name="Borodist Mint Candy  Матирующее средство  копия 3" class="cls-12" transform="translate(542.396 -429.455) scale(0.865)"><tspan x="0">Borodist Mint Candy </tspan><tspan x="0" dy="27.741">Матирующее средство</tspan></text>
+    </g>
+    <g id="Кнопки-3" data-name="Кнопки">
+      <path id="Прямоугольник_32_копия_5" data-name="Прямоугольник 32 копия 5" class="cls-6" d="M-439-320h180v46H-439v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_6" data-name="Прямоугольник 32 копия 6" class="cls-6" d="M-139-320H41v46H-139v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_7" data-name="Прямоугольник 32 копия 7" class="cls-6" d="M161-320H341v46H161v-46h0Z"/>
+      <path id="Прямоугольник_32_копия_8" data-name="Прямоугольник 32 копия 8" class="cls-6" d="M459-320H639v46H459v-46h0Z"/>
+    </g>
+    <g id="Звезды-3" data-name="Звезды">
+      <text id="_4_00_копия_3" data-name="4,00 копия 3" class="cls-13" transform="translate(564.594 -789.28) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия_2" data-name="4,00 копия 2" class="cls-13" transform="translate(267.594 -789.28) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00_копия" data-name="4,00 копия" class="cls-13" transform="translate(-33.406 -789.28) scale(0.754 0.873)">4,00</text>
+      <text id="_4_00" data-name="4,00" class="cls-13" transform="translate(-332.406 -789.28) scale(0.754 0.873)">4,00</text>
+    </g>
+  </g>
+  <g id="Группа_1" data-name="Группа 1" class="cls-4">
+    <circle id="Эллипс_4" data-name="Эллипс 4" class="cls-14" cx="39.5" cy="-1080.5" r="7.5"/>
+    <circle id="Эллипс_4_копия" data-name="Эллипс 4 копия" class="cls-14" cx="69.5" cy="-1080.5" r="7.5"/>
+    <circle id="Эллипс_4_копия_2" data-name="Эллипс 4 копия 2" class="cls-14" cx="99.5" cy="-1080.5" r="7.5"/>
+    <circle id="Эллипс_4_копия_3" data-name="Эллипс 4 копия 3" class="cls-14" cx="129.5" cy="-1080.5" r="7.5"/>
+    <circle id="Эллипс_4_копия_4" data-name="Эллипс 4 копия 4" class="cls-14" cx="159.5" cy="-1080.5" r="7.5"/>
+  </g>
+  <circle id="Эллипс_6" data-name="Эллипс 6" class="cls-15" cx="39.5" cy="-1080.5" r="6.5"/>
+  <path id="Прямоугольник_5" data-name="Прямоугольник 5" class="cls-6" d="M14-1210H187v53H14v-53h0Z"/>
+  <g id="Меню_основное" data-name="Меню основное">
+    <path id="Прямоугольник_3" data-name="Прямоугольник 3" class="cls-6" d="M-886-1605H1076v62H-886v-62h0Z"/>
+  </g>
+  <text id="_7_000_000-00-00" data-name="+7 (000) 000-00-00" class="cls-16" transform="translate(316.221 -1733.105) scale(1.36)">+7 (000) 000-00-00</text>
+  <text id="_7_800_000-00-00" data-name="+7 (800) 000-00-00" class="cls-16" transform="translate(516.221 -1733.105) scale(1.36)">+7 (800) 000-00-00</text>
+  <text id="Ежедневно_с_10:00_-_21:00_" data-name="Ежедневно с 10:00 - 21:00 " class="cls-17" transform="translate(315.397 -1709.455) scale(0.865)"><tspan class="cls-18">Ежедневно с 10:00 - 21:00</tspan><tspan class="cls-19"> </tspan></text>
+  <text id="Бесплатно_по_России_" data-name="Бесплатно по России " class="cls-20" transform="translate(534.397 -1709.455) scale(0.865)"><tspan class="cls-21">Бесплатно по России</tspan> </text>
+  <path id="Прямоугольник_2_копия_2" data-name="Прямоугольник 2 копия 2" class="cls-22" d="M-303-1670H268v34H-303v-34h0Z"/>
+  <text id="Поиск_по_сайту" data-name="Поиск по сайту" class="cls-5" x="-289.001" y="-1649">Поиск по сайту</text>
+  <text id="Для_тех_кто_ставит_свои_условия_и_не_согласен_на_компромис_" data-name="Для тех, кто ставит свои условия и не согласен на компромис!" class="cls-23" transform="translate(-221.094 -1707.321) scale(0.867)">Для тех, кто ставит свои условия и не согласен на компромис!</text>
+  <text id="Москва" class="cls-24" x="393" y="-1785">Москва</text>
+  <text id="Войти" class="cls-24" x="606.001" y="-1785">Войти</text>
+  <g id="Корзина">
+    <path id="Прямоугольник_2" data-name="Прямоугольник 2" class="cls-6" d="M317-1670H486v34H317v-34h0Z"/>
+    <text id="Ваша_корзина" data-name="Ваша корзина" class="cls-25" x="355" y="-1649.334">Ваша корзина</text>
+    <circle id="Эллипс_3_копия" data-name="Эллипс 3 копия" class="cls-26" cx="465.5" cy="-1653.5" r="9.5"/>
+    <text id="_0" data-name="0" class="cls-27" transform="translate(462.347 -1648.91) scale(0.764)">0</text>
+  </g>
+  <g id="Заказать_звонок-2" data-name="Заказать звонок">
+    <path id="Прямоугольник_2_копия" data-name="Прямоугольник 2 копия" class="cls-6" d="M517-1670H686v34H517v-34h0Z"/>
+    <text id="Заказать_звонок-3" data-name="Заказать звонок" class="cls-25" x="556" y="-1648.333">Заказать звонок</text>
+    <path class="cls-28" d="M542.685-1651.09a1.263,1.263,0,0,0-1.907,0c-0.445.44-.891,0.88-1.329,1.33a0.269,0.269,0,0,1-.367.07c-0.289-.16-0.6-0.29-0.873-0.46a13.888,13.888,0,0,1-3.334-3.03,7.921,7.921,0,0,1-1.194-1.92,0.273,0.273,0,0,1,.067-0.35c0.446-.43.88-0.87,1.318-1.31a1.275,1.275,0,0,0,0-1.96c-0.349-.35-0.7-0.69-1.045-1.04s-0.716-.73-1.079-1.08a1.263,1.263,0,0,0-1.907,0c-0.449.44-.88,0.9-1.337,1.33a2.169,2.169,0,0,0-.682,1.47,6.22,6.22,0,0,0,.48,2.67,16.184,16.184,0,0,0,2.88,4.79,17.7,17.7,0,0,0,5.9,4.62,8.505,8.505,0,0,0,3.27.95,2.369,2.369,0,0,0,2.057-.78c0.382-.43.812-0.82,1.217-1.22a1.275,1.275,0,0,0,.008-1.94C544.116-1649.67,543.4-1650.38,542.685-1651.09Zm-0.715-2.99,1.382-.23a6.223,6.223,0,0,0-1.727-3.34,6.108,6.108,0,0,0-3.521-1.75l-0.2,1.38a4.822,4.822,0,0,1,2.727,1.36A4.8,4.8,0,0,1,541.97-1654.08Zm2.161-6.01a10.217,10.217,0,0,0-5.843-2.91l-0.2,1.39a8.81,8.81,0,0,1,5.049,2.52,8.814,8.814,0,0,1,2.476,4.77l1.382-.23A10.28,10.28,0,0,0,544.131-1660.09Z"/>
+  </g>
+  <g id="Icon" class="cls-4">
+    <image id="Forma_1" data-name="Forma 1" x="330" y="-1663" width="17" height="17" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAABVklEQVQ4jZ3TMUtXURgG8J/5VxQFBYPcKtNRrZYIGxwa6jsEDQ6Ogt9A1MVJB3EQcRBaKgRprg/gEFQ0FTUEKiGGIpFlyovnj7dz75+yZznc9zzneZ73vOc2DVzpPXGGzxjCgQuihlXcxC0sYgOX/lGmBZ8iSXy04y1ulGh/x1bd8TuW/0MgsF5PEujBO/SWaI3xFYPF3nex1JBejWnsFJNIKeJuLlce+RPv0zSP8ylsY75Er8ZsCGgwyt1SpYwXeFKv5u1cx2t8wRS+oa2wH6b7eFU8VMs8xtGVWnpa8j9HCHdjDz9ykV9pncDjRD7JOE0pUbzWsXgnuchcKOMOOiqSBg6TcC21ViJF8WX8D3heSFbHT1zFfbzBZpXII6ylw9cwk+23YgWjyegBPuYjvpvWEH9Y0UofRtCMfgxHsbmns7NI+oB7+I3JcMlEYhphfBvPsICjU9lcP5YE1s4wAAAAAElFTkSuQmCC"/>
+    <image id="Forma_1-2" data-name="Forma 1" x="369" y="-1802" width="16" height="23" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAYAAAAC9s/ZAAABb0lEQVQ4jY2UvyuFURjHP16yuKSoa6B0i6xKisGEmeVKFovya7AY/AU2YmAwKIPNP+D+ARTqymBAljuYyHCLUvR4z9HTec7p+iznvN/zPc/b8zznnKaBYg8Bk8ACMAr0Ad/AI3ABHAM32q4DtAMnwEwYMeAAWPNSixvbgCpQMnbLKjAITMlKc1ehIOM5MGysaUrupxVJQXKuJKyXrgZjZiWnN9P5KGquiLJx3M1fjAs2MrcYsgxcKU3mi8YFZQnQbWS4NUpep89YCl/GCgWjQFF1zfORuUMSsm0UOJSuBdqTtLHD91QxBEy4P44Ae8C0CQk70kbp53skeiOkHp2SQh3YbGCOsS410HfhGeiPGGNU/cnN1OJ8xJii7HUdQI7taWKDZhd48N/heyAFfQVazbacmnsj/sgCQ90VJ8VsqIcBhCPgzqhwBlz/J4AwF9GWYsZUgHtgX31vAW8xY+xR1chj8utLGcLbFbKSuK05wA+dYzfnLB87+wAAAABJRU5ErkJggg=="/>
+    <image id="Forma_1-3" data-name="Forma 1" x="574" y="-1803" width="24" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABpklEQVRIibWVyy5DURSGv1Y1Lm0nlRAGYiDxGJ7CNTFkIi5PYUwMygwJDTH0LiKmZSAM1LXokaVr1+lZp+1u1J/snLPX7V9rX9ZOTA6PlIAs/igDp8Cmj0cKGDXS1pBkNoAksN7SEpAKHiMVyPwaGAfSxgMy4gd86H/FWISQNJKaQwEYAnLAWGhMAc9qVwX6jbcHgQTeB7Z1Xg6NGw3sEqkabw8ChzXgDpjVJUGXMmEs47EF7KRiVY3VFIEL4Mlom2MPWG5XgcOrp51DPbgcGB9HOS2BkcajEAouSHSSWTvIoViJ2nSLIKWHwqBbBF/AkZF2kUD2aAk4+y8Ch5kISdBtAiIkuXYX7S8kch8GhKDXqBsRaC9Cv7534ufICkGfUTUiqW9GWXuRW9a0zx6KwQJwbzS/kJ5/CZT0OxjyfTPWMQQn2ueLRltDQjPPRrqptPR3Yx1BTz4jCfICnANXwLRsTsgs0E5a0fEAHAKrJloM5MmMSvPALjCnc3lCpULXrqW7fvoEd0sUhezHPLCoayzP5m3oVfMO3ozA4VgzPwAmOglaB/ANK5NPBlN+RKgAAAAASUVORK5CYII="/>
+  </g>
+</svg>

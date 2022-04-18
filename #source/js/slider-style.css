@@ -1,0 +1,133 @@
+#slider1 {position: relative;
+    display: block;
+    margin: 0 auto;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+	max-width: 1170px;
+    width: 100%;}
+
+#slider1 ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-line-pack: start;
+        align-content: flex-start;
+}
+
+#slider1 ul li{
+    z-index: 2;
+  /*   margin-top: 169px; */
+}
+
+#slider1 ul li div{
+     z-index:2;
+    max-height: 370px;
+    max-width: 659.44px;
+    display: inline-block;
+    margin: 0 auto;
+    -o-object-fit: cover;
+       object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#slider1 ul li div video{z-index:1;height: 100%;width: 100%;left: 0;right: 0;-o-object-fit: cover;object-fit: cover;}
+
+#slider1 ul li.favorite{
+    position: absolute;
+    width: 100%;
+    /* background: rgb(255, 255, 255, 0.1); */
+    z-index:3;
+	height: unset;
+	top: -25%;
+}
+
+#slider1 ul li.favorite div{
+	z-index:4;
+	margin: 0 auto;
+	display: block;
+	max-width: 980px;
+	max-height: 551.25px;
+}
+
+#slider1 ul li.favorite div video{
+
+z-index: 5;
+
+}
+
+.right, .left{width:30px;height: 39px;margin:5px;z-index: 4;padding: 6px 0 6px 0;cursor: pointer;}
+
+.right span, .left span {
+    display: none;
+}
+
+.right:after, .left:after, .right:before, .left:before {background-color: #6c6868;content: '';height: 3px;width: 100%;z-index: 5;position: absolute;}
+
+.right:before, .left:before { 
+    bottom: 0;
+    margin-bottom: 14px;
+}
+
+.right:after, .left:after {
+    top: 0;
+    margin-top: 14px;
+}
+
+.right:before {
+    -webkit-transform: rotate(45deg);
+            transform: rotate(45deg);
+}
+
+.right:after {
+    
+    -webkit-transform: rotate(-45deg);
+    
+            transform: rotate(-45deg);
+}
+
+.left:before {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+}
+
+.left:after {
+    
+    -webkit-transform: rotate(45deg);
+    
+            transform: rotate(45deg);
+}
+
+.left{
+    position: absolute;
+    left: 96%;
+    bottom: 33%;
+}
+
+.right {
+    position: absolute;
+    top: 55%;
+    left: 0;
+    }
+
+.right span, .left span {
+    background-color: red;
+    content: '';
+    height: 3px;
+    width: 100%;
+    z-index: 5;
+    position: absolute;
+    top: 7px;
+}
+/*# sourceMappingURL=slider-style.css.map */

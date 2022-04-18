@@ -1,0 +1,40 @@
+.catalog #content { /* width: 1170px; */ margin: 0 auto; padding: 306px 0 0; display: flex; flex-direction: row;}
+.catalog #content > div{display: flex; flex-direction: column;width: 79.2%;margin: 0 auto;/* padding: 306px 0 0; */}  
+.catalog #content div#hit { margin-top: 0;}
+.catalog #content .name + .flexslider{margin-top: 9.43595%;}
+.catalog .flexslider .text{padding-bottom: 0px;margin-bottom: 3px;}
+.catalog #content .flexslider ul.slides > li{width: 210px;margin-left: 20.2px;float: left;min-height: 442px;}
+.catalog #content .flexslider ul.slides > li:first-child {    margin-left: 26px;}
+
+.catalog #content .flexslider ul.slides > li > div{height: inherit;padding-bottom: 0;}
+
+.catalog #content .flexslider ul.slides > li div.rating > div{margin: 10px 0 0 9px;}
+.catalog #content .flexslider ul.slides > li div.rating span.active.zvezda {/* background-size: 92%; */}
+.catalog #content .flexslider ul.slides > li div.rating > div:nth-child(3){float: right;margin-right: 8px;width: 40px;margin-top: 0px;/* height: 51px; */}
+.catalog #content .flexslider ul.slides > li div.rating > div.hit-flag span { font-size: 0.75em;}
+
+.catalog #content .flexslider ul.slides > li div.tovar img{width: 95px;}
+
+.catalog #content .flexslider ul.slides > li > div>div{width:inherit;letter-spacing: -0.6px;}
+.catalog #content .flexslider ul.slides > li > div>div.title{margin: 19px 0 11px 0;}
+.catalog #content .flexslider ul.slides > li > div>div.title h4{font-size: 1.5408em;}
+
+.catalog #content .flexslider ul.slides > li > div > div.brand, .catalog 
+.catalog #content .flexslider ul.slides > li > div > div.text{ line-height: 1.2; letter-spacing: -0.4px;}
+.catalog #content .flexslider ul.slides > li > div > div.price {margin-top: 0px;}
+.catalog #content .flexslider ul.slides > li > div > div.price span {font-size:1.61416em;}
+
+.catalog #content .flexslider ul.slides > li div.rating > div.hit-flag{background-size: contain;padding-top: 11px;height: 54px;}
+.catalog #content .flexslider ul.slides > li > div>div:last-child {margin-top: 18px;width: 141px;height: 38px;}
+.catalog #content .flexslider ul.slides > li > div>div:last-child a{font-size: 1.155833em;padding: 8px 0 14px 0;display: block;}
+
+.catalog #content .flexslider ul.slides > li div.rating{height: 50px;vertical-align: baseline;}
+.catalog #content .flexslider ul.slides > li div.tovar{ padding-top: 2px; vertical-align: top; min-height: 182.28px; }
+
+.catalog #content > div section .name {display:none;}
+.catalog #content > div#hit section .name{display: block;}
+
+
+
+
+

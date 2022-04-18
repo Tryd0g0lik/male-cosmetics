@@ -1,0 +1,126 @@
+/* -Filters to The new product The liader product The Action on product */
+
+/* IE 11 -start*/
+
+/* The menu in top - start */
+#menuTop > div > ul > li {margin: 0 1%;}
+#menuTop a, #menuTop span {font-size:1.13em;}
+
+/* The menu in top - finish */
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	
+	nav span:last-child{display:inline-block; width:auto; margin-top:1px;}
+
+	li.sociality{ }
+	li.sociality:after, .technical > div h3::before{display:none; }
+	.technical> div >div h3{ border:0; border-bottom:1px solid #d2ccda;}
+	
+	.technical > div h3.active-filtr-h3:after, .technical > div h3:before , technical > div h3.active-filtr-h3::before{display:none;}
+	
+	li.technical > div > div svg.clip-svg-1{ width: 15px; height: 8px; position: absolute; right: 35px; top: 7px; display: inline-block; }
+	/* CONTENT */ 
+	/* -Cetalog */
+
+	/* The product cards in catalog */	
+	.catalog#body #content .flexslider ul.slides > li div.rating > div.hit-flag {padding-top:0; width:33px;}
+	.catalog#body #content .flexslider ul.slides > li div.rating > div.hit-flag span.active{background: no-repeat center/contain url(/male-cosmetics/img/flag.png); clip-parth:none; position:absolute; top:-4px; }
+	#body #content #catalog .flexslider ul.slides > li div.rating > div:nth-child(3) span.active::before{font-size:10px;}
+}
+
+/* IE 11 -finish*/
+
+/*The conteent block */
+
+*::-ms-backdrop, div.catalog.product-card#body div#menuTop + div#content {display:block;}
+
+*::-ms-backdrop, div.catalog.product-card#body #content > div {display:block; -ms-flex-direction: inherit; flex-direction: inherit; -ms-flex-preferred-size: inherit; flex-basis: inherit;}
+
+/* The card product on the page catalog - start */
+
+*::-ms-backdrop, .catalog#body #content .flexslider ul.slides > li {margin-bottom:57px;}
+
+*::-ms-backdrop, .catalog#body #content .flexslider ul.slides > li div.tovar {height:240px;}
+
+*::-ms-backdrop, .catalog#body #content .flexslider ul.slides > li div.tovar img {transform:scale(0.7);}
+
+/* The card product on the page catalog - finish */
+
+/* top menu start*/
+
+*::-ms-backdrop, #menuTop div > ul {display:inline-block;}
+
+/* top menu finish*/
+
+/* The description in a page product-card - start */
+
+*::-ms-backdrop, #product-card > div#description {max-width:1170px; width:100%;}
+
+*::-ms-backdrop, #product-card > div#description > *:last-child {display:inline-block;}
+
+*::-ms-backdrop, #product-card > div#description > *:nth-child(1), *::-ms-backdrop, #product-card > div#description > *:nth-child(3) {left:0px;}
+
+*::-ms-backdrop, #product-card > div#description > *.active {background-color:#c5b59b;}
+
+*::-ms-backdrop, #product-card > div#description > *.description-name {display:inline-block; text-align:center;}
+
+/* The description in a page product-card - finish */
+
+/* Bought With that a product - start*/
+
+*::-ms-backdrop, #content div#hit, *::-ms-backdrop, .catalog#body #content .name + .flexslider, *::-ms-backdrop, div.catalog.product-card#body #content div#new, *::-ms-backdrop, #content div#action {margin-top:0;}
+
+*::-ms-backdrop, .catalog.product-card #content #catalog, *::-ms-backdrop, #contacts-of-network, *::-ms-backdrop, #contacts-of-network > aside {padding-top:0px;}
+
+*::-ms-backdrop, #body.catalog.product-card #content .flexslider ul.slides > li {-ms-flex-preferred-size:268px;flex-basis:268px; width:268px;}
+
+*::-ms-backdrop, .catalog.product-card#body #content .flexslider ul.slides > li div.tovar {height:248px;}
+
+*::-ms-backdrop, .catalog.product-card#body #content .flexslider ul.slides > li div.tovar img {transform: scale(0.7);}
+
+/* Bought With that a product - finish*/
+
+*::-ms-backdrop, div#photocard, #photocard-mini, *::-ms-backdrop, div.catalog.product-card#body #content #characteristics div.rating {width:100%;}
+
+/* The table contacts of network - start */
+
+*::-ms-backdrop, #contacts-of-network aside > div {-ms-grid-columns: 255px 1fr 1fr 1fr 1fr;}
+
+*::-ms-backdrop, #contacts > div {display: inline-block; float:left;}
+
+*::-ms-backdrop, #contacts-of-network aside > div > *:nth-child(2){display:block; /* width:139px; */-ms-grid-column:2; }
+
+*::-ms-backdrop, #contacts > div:nth-child(2) > div:first-child {display:block;/*  width:139px; */}
+
+*::-ms-backdrop, #contacts > div > div:first-child h3 {float: inherit;}
+
+/* #contacts-of-network aside > div > *:nth-child(3) */
+
+/* footer - start */
+
+@media screen and (max-width:871px) {
+	/* the header's block a contact an call buttom - finish */
+	*::-ms-backdrop, #header div.comein > div:nth-child(3), *::-ms-backdrop, #header div.comein.top .tel {width:auto;}
+	
+	/* the header's block  a contact an call buttom - finish */
+	
+	*::-ms-backdrop, div#footer #ftr #footer-menu > div:first-child {display:inline-block;}
+	*::-ms-backdrop, div.catalog.product-card#body #content #characteristics div.rating {max-width:360px; background:none;}
+	
+	*::-ms-backdrop, div#price-product > div:nth-child(3) {display:inline-block; width: 200px; text-align:center;}
+	*::-ms-backdrop, div#price-product > div:nth-child(3) > input:first-child {margin-bottom:10px;}
+	*::-ms-backdrop, div#price-product > div:nth-child(3) > input:nth-child(2) {margin-left:0px;}
+	*::-ms-backdrop, div#price-product > div:nth-child(3) > input {}
+	
+	*::-ms-backdrop, #product-card > div#description > *:last-child {padding-left:0; padding-right:0;}
+	
+	
+	/* The product-card - start */
+	*::-ms-backdrop, .catalog.product-card #content #catalog div.name > h2, *::-ms-backdrop, .catalog.product-card#body #content #contacts-of-network div.name h2 {font-size:3.66em;}
+	
+	
+	/* The product-card - finish */
+}
+
+/* footer - finish */
+/*# sourceMappingURL=ie11.css.map */

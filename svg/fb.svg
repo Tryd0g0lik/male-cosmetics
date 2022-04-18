@@ -1,0 +1,250 @@
+<svg id="Futer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <style>
+      .cls-1, .cls-13, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-2 {
+        fill: #645d6f;
+      }
+
+      .cls-3 {
+        fill: #a9a9a9;
+      }
+
+      .cls-15, .cls-4 {
+        fill: #c5b59b;
+      }
+
+      .cls-5 {
+        stroke: #c5c7c6;
+      }
+
+      .cls-13, .cls-14, .cls-5, .cls-7, .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: #dbdbdb;
+        filter: url(#filter);
+      }
+
+      .cls-16, .cls-7 {
+        fill: none;
+      }
+
+      .cls-14, .cls-7, .cls-8 {
+        stroke: #9e9e9e;
+      }
+
+      .cls-8 {
+        fill: #9e9e9e;
+      }
+
+      .cls-9 {
+        font-size: 26.699px;
+      }
+
+      .cls-10, .cls-15 {
+        font-family: "Myriad Pro";
+      }
+
+      .cls-11 {
+        font-size: 36px;
+        text-transform: uppercase;
+      }
+
+      .cls-12 {
+        font-size: 18px;
+      }
+
+      .cls-13 {
+        stroke: #dbdbdb;
+      }
+
+      .cls-14 {
+        fill: #b3b3b3;
+      }
+
+      .cls-15 {
+        font-size: 40.615px;
+      }
+
+      .cls-16 {
+        stroke: #e4e4e4;
+        stroke-width: 1px;
+      }
+
+      .cls-17 {
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+
+      .cls-18 {
+        filter: url(#filter-3);
+      }
+    </style>
+    <filter id="filter" x="183" y="366" width="213" height="58" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#c5b59b"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="1000" y="-561" width="18" height="18" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#251718"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#252422"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <image id="image" width="950" height="67" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAA7YAAABDCAYAAACoTZmvAAAELUlEQVR4nO3dzavlcwDH8c/MXyTMwpUslLjJxsrCQ7pZWFmgrJTFpLCwshglDws7qyGUjSiZsLBCFBtCCuUpRifn1pUz9+Hc8zvn+7n39VrOzD2/729meten7sz3zLsXL1zOyXPmBL4TnHZaBTTRLJjI1vbOsT74vdee80dzAht1doAzAAAAwNIMWwAAAKoZtgAAAFQzbAEAAKhm2AIAAFDNsAUAAKCaYQsAAEA1wxYAAIBqhi0AAADVDFsAAACqGbYAAABUM2wBAACoZtgCAABQzbAFAACgmmELAABANcMWAACAaoYtAAAA1QxbAAAAqhm2AAAAVDNsAQAAqGbYAgAAUM2wBQAAoJphCwAAQDXDFgAAgGqGLQAAANUMWwAAAKoZtgAAAFQzbAEAAKhm2AIAAFDNsAUAAKCaYQsAAEA1wxYAAIBqhi0AAADVDFsAAACqGbYAAABUM2wBAACoZtgCAABQzbAFAACgmmELAABANcMWAACAaoYtAAAA1QxbAAAAqhm2AAAAVDNsAQAAqGbYAgAAUM2wBQAAoNo6h+2bSa5O8o6/MsDAtApoolnAyNbWqHUM2z+TPJLkliQfJbkpyTNreC7AUWgV0ESzgJGtvVFTD9vPk2wleTLJ5fmPzV7ywSR3Jvll4ucDHIZWAU00CxjZRho15bB9Ock1SS5d4edfSXJdkk8nPAPAQbQKaKJZwMg21qgphu3PSe5JcleSnw74tZ8kOZfk1QnOAbAfrQKaaBYwso03atXD9tJ8ob94hK+ZvfgdSR5N8teKzwOwiFYBTTQLGNkQjVrVsJ197/TTSa5P8tmSX/9EkpuTfLeiMwEsao1WAS00CxjZUI1axbD9NsmtSR5K8scxP+vt+dp/fwXnAthLq4AmmgWMbLhGHXfYzu4luirJG8f8nL2+TnJjkmdX+JnA6aZVQBPNAkY2ZKOWHbZ77yX6ZtmH7+P3JA8kuTfJrxN8PnA6aBXQRLOAkQ3dqGWG7aJ7iabywvxZX0z8HODk0SqgiWYBIxu+UUcdtgfdSzSFj5Ncm+TiGp8JdNMqoIlmASOraNRhh+3sXqK7D3kv0RR+THJ7kseS/L2B5wMdtApoolnAyKoadZhhu3sv0UurOd/SZi/zeJLbkvyw4bMA49EqoIlmASOra9R+w/a49xJN5fUk55J8ONCZgM3RKqCJZgEjq23UlYbtKu8lmsKX89/s5wc8G7A+WgU00SxgZNWNWjRsp7iXaAq/Jbkvyf3z/xoaOF20CmiiWcDIahq1tb2zsFF7h+3sXqKHJ7yXaCoXktyQ5KuiMwPL0yqgiWYBI6ts1Nb2zv8atTtsd+8lemoN9xJN4YP5P25+q/DswOFpFdBEs4CRVTdqa3vnP406u6F7iabw/fx7ws+XvwewmFYBTTQLGNmJaNTW9s6/jUrO/wP9JVsBf42DMgAAAABJRU5ErkJggg=="/>
+  </defs>
+  <rect id="Прямоугольник_1" data-name="Прямоугольник 1" class="cls-1" x="-388" y="-738" width="1920" height="7021"/>
+  <rect id="Прямоугольник_8_копия_2" data-name="Прямоугольник 8 копия 2" class="cls-2" x="928" y="4517" width="220" height="44"/>
+  <rect id="Прямоугольник_8_копия_3" data-name="Прямоугольник 8 копия 3" class="cls-2" x="928" y="4567" width="220" height="44"/>
+  <g id="Забрать_в_магазине" data-name="Забрать в магазине">
+    <g id="Наличие">
+      <rect id="Прямоугольник_22" data-name="Прямоугольник 22" class="cls-3" x="348" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_5" data-name="Прямоугольник 22 копия 5" class="cls-3" x="358" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_6" data-name="Прямоугольник 22 копия 6" class="cls-3" x="368" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_7" data-name="Прямоугольник 22 копия 7" class="cls-3" x="378" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_8" data-name="Прямоугольник 22 копия 8" class="cls-3" x="388" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_9" data-name="Прямоугольник 22 копия 9" class="cls-3" x="398" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_10" data-name="Прямоугольник 22 копия 10" class="cls-3" x="408" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_11" data-name="Прямоугольник 22 копия 11" class="cls-3" x="418" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_12" data-name="Прямоугольник 22 копия 12" class="cls-3" x="428" y="3532" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия" data-name="Прямоугольник 22 копия" class="cls-3" x="348" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13" data-name="Прямоугольник 22 копия 13" class="cls-3" x="358" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13-2" data-name="Прямоугольник 22 копия 13" class="cls-3" x="368" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13-3" data-name="Прямоугольник 22 копия 13" class="cls-3" x="378" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13-4" data-name="Прямоугольник 22 копия 13" class="cls-3" x="388" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13-5" data-name="Прямоугольник 22 копия 13" class="cls-3" x="398" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13-6" data-name="Прямоугольник 22 копия 13" class="cls-3" x="408" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13-7" data-name="Прямоугольник 22 копия 13" class="cls-3" x="418" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_13-8" data-name="Прямоугольник 22 копия 13" class="cls-3" x="428" y="3646" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_2" data-name="Прямоугольник 22 копия 2" class="cls-3" x="348" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14" data-name="Прямоугольник 22 копия 14" class="cls-3" x="358" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14-2" data-name="Прямоугольник 22 копия 14" class="cls-3" x="368" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14-3" data-name="Прямоугольник 22 копия 14" class="cls-3" x="378" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14-4" data-name="Прямоугольник 22 копия 14" class="cls-3" x="388" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14-5" data-name="Прямоугольник 22 копия 14" class="cls-3" x="398" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14-6" data-name="Прямоугольник 22 копия 14" class="cls-3" x="408" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14-7" data-name="Прямоугольник 22 копия 14" class="cls-3" x="418" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_14-8" data-name="Прямоугольник 22 копия 14" class="cls-3" x="428" y="3770" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_3" data-name="Прямоугольник 22 копия 3" class="cls-3" x="348" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15" data-name="Прямоугольник 22 копия 15" class="cls-3" x="358" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15-2" data-name="Прямоугольник 22 копия 15" class="cls-3" x="368" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15-3" data-name="Прямоугольник 22 копия 15" class="cls-3" x="378" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15-4" data-name="Прямоугольник 22 копия 15" class="cls-3" x="388" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15-5" data-name="Прямоугольник 22 копия 15" class="cls-3" x="398" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15-6" data-name="Прямоугольник 22 копия 15" class="cls-3" x="408" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15-7" data-name="Прямоугольник 22 копия 15" class="cls-3" x="418" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_15-8" data-name="Прямоугольник 22 копия 15" class="cls-3" x="428" y="3901" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_4" data-name="Прямоугольник 22 копия 4" class="cls-3" x="348" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16" data-name="Прямоугольник 22 копия 16" class="cls-3" x="358" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16-2" data-name="Прямоугольник 22 копия 16" class="cls-3" x="368" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16-3" data-name="Прямоугольник 22 копия 16" class="cls-3" x="378" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16-4" data-name="Прямоугольник 22 копия 16" class="cls-3" x="388" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16-5" data-name="Прямоугольник 22 копия 16" class="cls-3" x="398" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16-6" data-name="Прямоугольник 22 копия 16" class="cls-3" x="408" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16-7" data-name="Прямоугольник 22 копия 16" class="cls-3" x="418" y="4034" width="8" height="27"/>
+      <rect id="Прямоугольник_22_копия_16-8" data-name="Прямоугольник 22 копия 16" class="cls-3" x="428" y="4034" width="8" height="27"/>
+    </g>
+    <g id="Кнопки">
+      <rect id="Прямоугольник_23" data-name="Прямоугольник 23" class="cls-4" x="977" y="3514" width="179" height="57"/>
+      <rect id="Прямоугольник_23_копия" data-name="Прямоугольник 23 копия" class="cls-4" x="977" y="3636" width="179" height="57"/>
+      <rect id="Прямоугольник_23_копия_2" data-name="Прямоугольник 23 копия 2" class="cls-4" x="977" y="3760" width="179" height="57"/>
+      <rect id="Прямоугольник_23_копия_3" data-name="Прямоугольник 23 копия 3" class="cls-4" x="977" y="3891" width="179" height="57"/>
+      <rect id="Прямоугольник_23_копия_4" data-name="Прямоугольник 23 копия 4" class="cls-4" x="977" y="4023" width="179" height="57"/>
+    </g>
+    <g id="Меню">
+      <rect id="Прямоугольник_21" data-name="Прямоугольник 21" class="cls-2" x="-12" y="3397" width="1168" height="73"/>
+    </g>
+  </g>
+  <g id="Недавно_просмотренные" data-name="Недавно просмотренные">
+    <rect id="Прямоугольник_23_копия_16" data-name="Прямоугольник 23 копия 16" class="cls-5" x="-15" y="2564" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_17" data-name="Прямоугольник 23 копия 17" class="cls-5" x="284" y="2564" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_18" data-name="Прямоугольник 23 копия 18" class="cls-5" x="585" y="2564" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_19" data-name="Прямоугольник 23 копия 19" class="cls-5" x="882" y="2564" width="272" height="575"/>
+    <g id="кнопки-2" data-name="кнопки">
+      <rect id="Прямоугольник_32_копия_17" data-name="Прямоугольник 32 копия 17" class="cls-2" x="30" y="3067" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_18" data-name="Прямоугольник 32 копия 18" class="cls-2" x="330" y="3067" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_19" data-name="Прямоугольник 32 копия 19" class="cls-2" x="630" y="3067" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_20" data-name="Прямоугольник 32 копия 20" class="cls-2" x="928" y="3067" width="180" height="46"/>
+    </g>
+    <g id="Флажки">
+      <use id="Группа_2_копия_2" data-name="Группа 2 копия 2" x="196" y="2565" xlink:href="#image"/>
+    </g>
+  </g>
+  <g id="Похожие_товары" data-name="Похожие товары">
+    <rect id="Прямоугольник_23_копия_11" data-name="Прямоугольник 23 копия 11" class="cls-5" x="883" y="1767" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_8" data-name="Прямоугольник 23 копия 8" class="cls-5" x="-14" y="1767" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_9" data-name="Прямоугольник 23 копия 9" class="cls-5" x="285" y="1767" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_10" data-name="Прямоугольник 23 копия 10" class="cls-5" x="586" y="1767" width="272" height="575"/>
+    <g id="Кнопки-3" data-name="Кнопки">
+      <rect id="Прямоугольник_32_копия_9" data-name="Прямоугольник 32 копия 9" class="cls-2" x="31" y="2270" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_10" data-name="Прямоугольник 32 копия 10" class="cls-2" x="331" y="2270" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_11" data-name="Прямоугольник 32 копия 11" class="cls-2" x="631" y="2270" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_12" data-name="Прямоугольник 32 копия 12" class="cls-2" x="929" y="2270" width="180" height="46"/>
+    </g>
+    <g id="флажки-2" data-name="флажки">
+      <use id="Группа_2" data-name="Группа 2" x="197" y="1768" xlink:href="#image"/>
+    </g>
+  </g>
+  <g id="С_эти_товаром_покупают" data-name="С эти товаром покупают">
+    <rect id="Прямоугольник_23_копия_4-2" data-name="Прямоугольник 23 копия 4" class="cls-5" x="-14" y="982" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_5" data-name="Прямоугольник 23 копия 5" class="cls-5" x="285" y="982" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_6" data-name="Прямоугольник 23 копия 6" class="cls-5" x="586" y="982" width="272" height="575"/>
+    <rect id="Прямоугольник_23_копия_7" data-name="Прямоугольник 23 копия 7" class="cls-5" x="883" y="982" width="272" height="575"/>
+    <g id="кнопки-4" data-name="кнопки">
+      <rect id="Прямоугольник_32_копия_5" data-name="Прямоугольник 32 копия 5" class="cls-2" x="31" y="1485" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_6" data-name="Прямоугольник 32 копия 6" class="cls-2" x="331" y="1485" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_7" data-name="Прямоугольник 32 копия 7" class="cls-2" x="631" y="1485" width="180" height="46"/>
+      <rect id="Прямоугольник_32_копия_8" data-name="Прямоугольник 32 копия 8" class="cls-2" x="929" y="1485" width="180" height="46"/>
+    </g>
+  </g>
+  <g id="ТОвар_описание" data-name="ТОвар описание">
+    <g id="Описание">
+      <rect id="Прямоугольник_20" data-name="Прямоугольник 20" class="cls-6" x="183" y="366" width="213" height="58"/>
+    </g>
+    <g id="Основное_описание" data-name="Основное описание">
+      <g id="_2" data-name="2">
+        <rect id="Прямоугольник_17_копия_4" data-name="Прямоугольник 17 копия 4" class="cls-4" x="616" y="58.906" width="141.25" height="42.094"/>
+        <rect id="Прямоугольник_17_копия_5" data-name="Прямоугольник 17 копия 5" class="cls-2" x="783" y="59" width="193" height="42"/>
+        <rect id="Прямоугольник_18" data-name="Прямоугольник 18" class="cls-7" x="832" y="-78" width="108" height="34"/>
+        <rect id="Прямоугольник_19" data-name="Прямоугольник 19" class="cls-8" x="907.688" y="-78" width="32.312" height="33.094"/>
+        <rect id="Прямоугольник_19_копия" data-name="Прямоугольник 19 копия" class="cls-8" x="833.844" y="-78" width="32.312" height="33.094"/>
+      </g>
+      <text id="Лосьон_послmе_бритья_Proraso_Cандалadipisicing_elit_sed_do_eiu" data-name="Лосьон послmе бритья Proraso Cандалadipisicing elit, sed do eiu" class="cls-9" transform="translate(586.849 -312.197) scale(1.349)"><tspan class="cls-10">Лосьон послmе бритья Proraso Cандал</tspan><tspan class="cls-11">adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <tspan class="cls-12">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</tspan></tspan></text>
+    </g>
+    <g id="фото">
+      <rect id="Прямоугольник_15" data-name="Прямоугольник 15" class="cls-13" x="-13" y="-313" width="570" height="484"/>
+      <rect id="Прямоугольник_17" data-name="Прямоугольник 17" class="cls-14" x="-13" y="193" width="127.25" height="93"/>
+      <rect id="Прямоугольник_17_копия" data-name="Прямоугольник 17 копия" class="cls-14" x="135.25" y="193" width="127.25" height="93"/>
+      <rect id="Прямоугольник_17_копия_2" data-name="Прямоугольник 17 копия 2" class="cls-14" x="282.75" y="193" width="127.25" height="93"/>
+      <rect id="Прямоугольник_17_копия_3" data-name="Прямоугольник 17 копия 3" class="cls-14" x="430.75" y="193" width="127.25" height="93"/>
+      <image id="ВИджеты" width="28" height="28" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAByklEQVRIid2VS07DMBCGfzvOoxUJJ6kE5RJcAHEU2LAACaQuENcAdY04QukhvIB91aqiSV07CRqXZoEQtaFkwS9ZefjxecaeGUgpj7XW9V+LGMRiSqmaMYY2VNc1eFswErF4a7QPtQ4UP5k0fh5jOBzi9eUV2mhUVQWjDR6fHncPHI1GuLu9Q9JJkGYpOOcwxqAoCqf53sCH+wcL6nQ7CHhggYwzRG/R7oGTyQTT6RTZfoY4itHtdnF9c22hJK31boGz2QxRFCEMQ4ABeZGjLEvbXCUoGF1FF4NgG4uqsoLPfJLNNNsGnZ6c2udeuoc0TREnsQUVeYH5fI58kWO5XOLy6hL9o/63azm5lEBkFZ1ZGK0tJCCBM5bZf1mV4eDwYOtaTkAhBIIgQCCCxp02TXFu+0IRotfrNX3fycmldFFIFGvnZ+cQobAW0nkOBgPbZ4PfmO2bdzl0pVTzVCu1dilqqKVq+lzlFRa0ObqpVby+naVxD4eNvJM3uY5g1OjdV15x+NVY3zj8//Ww/QLsewaf5Tvfux5SCVqtVkANryqxEcvz3HmLlM6SJGm+yTpK2l7AxWLxO596irtU6V2JWFxKedEGlBhSyot3aSpK/3G4/lgAAAAASUVORK5CYII="/>
+    </g>
+  </g>
+  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-15" x="970.038" y="3317.636">Lorem Ipsum</text>
+  <g id="Меню_основное" data-name="Меню основное">
+    <rect id="Прямоугольник_3" data-name="Прямоугольник 3" class="cls-2" x="-415" y="-503" width="1962" height="62"/>
+  </g>
+  <rect id="Прямоугольник_2_копия_2" data-name="Прямоугольник 2 копия 2" class="cls-16" x="168" y="-568" width="571" height="34"/>
+  <g id="Корзина">
+    <rect id="Прямоугольник_2" data-name="Прямоугольник 2" class="cls-2" x="788" y="-568" width="169" height="34"/>
+    <circle id="Эллипс_3_копия" data-name="Эллипс 3 копия" class="cls-1" cx="936.5" cy="-551.5" r="9.5"/>
+  </g>
+  <g id="Заказать_звонок" data-name="Заказать звонок">
+    <rect id="Прямоугольник_2_копия" data-name="Прямоугольник 2 копия" class="cls-2" x="988" y="-568" width="169" height="34"/>
+    <path class="cls-17" d="M1013.68-549.093a1.253,1.253,0,0,0-1.9,0c-0.45.442-.89,0.884-1.33,1.333a0.266,0.266,0,0,1-.37.068c-0.29-.158-0.59-0.285-0.87-0.458a13.672,13.672,0,0,1-3.33-3.033,7.926,7.926,0,0,1-1.2-1.914,0.27,0.27,0,0,1,.07-0.352c0.44-.431.88-0.873,1.32-1.315a1.262,1.262,0,0,0-.01-1.951c-0.35-.353-0.69-0.7-1.04-1.049s-0.72-.723-1.08-1.079a1.273,1.273,0,0,0-1.91,0c-0.45.442-.88,0.9-1.33,1.329a2.174,2.174,0,0,0-.69,1.465,6.287,6.287,0,0,0,.48,2.671,16.408,16.408,0,0,0,2.88,4.8,17.867,17.867,0,0,0,5.91,4.618,8.479,8.479,0,0,0,3.27.951,2.389,2.389,0,0,0,2.05-.782c0.38-.428.82-0.817,1.22-1.226a1.276,1.276,0,0,0,.01-1.939C1015.12-547.67,1014.4-548.381,1013.68-549.093Zm-0.71-2.985,1.38-.236a6.136,6.136,0,0,0-1.73-3.334,6.109,6.109,0,0,0-3.52-1.757l-0.19,1.39a4.783,4.783,0,0,1,2.73,1.359A4.8,4.8,0,0,1,1012.97-552.078Zm2.16-6.008a10.16,10.16,0,0,0-5.84-2.914l-0.2,1.389a8.835,8.835,0,0,1,5.05,2.517,8.814,8.814,0,0,1,2.48,4.776l1.38-.236A10.266,10.266,0,0,0,1015.13-558.086Z"/>
+  </g>
+  <g id="Icon" class="cls-18">
+    <image id="Forma_1" data-name="Forma 1" x="801" y="-561" width="17" height="17" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAABUElEQVQ4jZ3Tv0vWURTH8Zf6GIqCgkFu+XM0y0XEBgcH+x+EhobGwP9A1MVJh2iIcBBaLARpzj/AIahwUmwIVEKSQiJ/c+g+8PX6JM/jZ7nce895n8/5nvut67/XeeGfvuEBfqtRJSzhIR7hJdZQXyWmETvhJDbN+ILeWl1gt1zxD17fAhBaLTsJdeArOm/OuaIfGCj2foBXNbqYwX7RieQivs3dKgCbaZpn+RT2sFCli7kA+M8oD6oAfMDb8iZvpxuf8B3TOERT4T6K/sJ6MamUVXiOttTSyg1OAtyOn/ibQ07T+gJPU/BFFlOXHMVrfRbvJIfMBxnDaKngNHSUwKXU2rWgOPwY/wPeF5yVdYL7GMdnbFSCTGI5JXdhNru/gzcYS4UmsJ2PeCStAX9SoZUejKIBfRiMw4aO1tZi0BYe4xxTUSWDxDSi8BDeYRHHl9lcP5Zwh+ROAAAAAElFTkSuQmCC"/>
+    <image id="Forma_1-2" data-name="Forma 1" x="840" y="-700" width="16" height="23" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAYAAAAC9s/ZAAABaElEQVQ4jZWUvyvFURjGPw5ZfElR10DpFlmVFIMJM8uVLBbl12Ax+AtsxMBgUAabf8D9AyjUlcGALHcwkeEWpejlHJ3e3tP93mc55zzneZ/T+77nnKaBQg8Kk8ACMAr0Ad/AI3ABHAM3sTw2aAdOgBntqHAArAWqxY9tQAUo1gkWrAKDwJQsmruyTMZzYDhHcEDRH1qWFCTnckJ46WswltjvdXE+Eaq+iBI47ucvhm7D+U2NZeAq4mS+aOhKYtBtbNwanNTp00rhyxBnBleIuhbw4fwl0dg2uEPpmuKepI0doacRhoAJf+IIsAdMG6Y70kbp57vhXg9Sj05JoQZsNhgsWJcaxG/hGejPGVwJN9dF5HwDp5fCJDaQa3uaI3gXeAgL/R9IQV+B1kRw1f8R/3BKUPPFSWFW89pAcATcGfwZcJ3HQDBncEuWMGVwD+xH6y3gzRJan2oM+Ux+dSmBfl0aK4nX+gfgB51jN+cRgDgqAAAAAElFTkSuQmCC"/>
+    <image id="Forma_1-3" data-name="Forma 1" x="1045" y="-701" width="24" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABlUlEQVRIibWVzUrDUBCFv5RalNquBEVXLgSfSNSAS01A/HkK14LS6E60WnTtxodw7QtUN3ZjFf8bGZnI9bZJbiUeCCHJzDlz7p3M9eYmp9pADXd0gXNgWzL8MMhMLAPTQ5CjxWwBJWAzL7ikFZl4AK6Bjn6zr1hjQ6DiImDjDYiACaAOzBjXPPCk8T1g7C8CQnwI7Oqz6eBWidFCegPyf6Gc8W0DWAbWdVNjXX8vj1TQbEQ7QDVLIHHTAi6BRxdiJT8AVklZIhvPjnF95NIwLonvRufkkUcGucBzrsyBXJpizX5fiECzEZW1KfpQlINP4PjfBPwwiP0wWAEu/kXAEFqwROJCBQaI1AsXMERk3JzI7o/kxMfGxO26/hN+GHy3rAiM5sSW9Mzo6ixKXFdc9rCkA62TETMO3ABtvVeN3BcXgTOd862UGE8rr1nTVNb41UVAcA8spbiJrTPhDtjXMZ4Le1yLmytgD1jUd0IqDpNxLdP1w4XcdGBCHIgbX9dYjk2pOnHgTJ4mkOBUKz8CZoch/QHwBXt7aGBK1WITAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>
